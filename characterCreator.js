@@ -4,7 +4,7 @@ function loadDoc() {
     xhttp.send();
     PopulateDropDownList(xhttp);//(this);
 }
-function myFunction(xml)
+function PopulateDropDownList(xml)
 {
     var xmlText = xml.responseXML;
 	var xmlDoc;
