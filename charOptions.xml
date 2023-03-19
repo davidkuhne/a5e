@@ -1009,7 +1009,7 @@
 			<name>Empathic</name>
 			<source id="ag">Adventurer's Guide</source>
 		</feat>
-		<feat id=equippedforJustice>
+		<feat id="equippedforJustice">
 			<name>Equipped for Justice</name>
 			<source id="ag">Adventurer's Guide</source>
 		</feat>
