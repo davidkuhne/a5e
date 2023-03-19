@@ -1,0 +1,1468 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<charOptions>
+	<heritages>
+		<heritage id="birdfolk">
+			<name>Birdfolk</name>
+		</heritage>
+		<heritage id="cervid">
+			<name>Cerid</name>
+		</heritage>
+		<heritage id="constructed">
+			<name>Constructed</name>
+		</heritage>
+		<heritage id="dragonborn">
+			<name>Dragonborn</name>
+			<source />
+		</heritage>
+		<heritage id="dreamborn">
+			<name>Dreamborn</name>
+		</heritage>
+		<heritage id="deva">
+			<name>Deva</name>
+		</heritage>
+		<heritage id="doppelganger">
+			<name>Doppelganger</name>
+		</heritage>
+		<heritage id="dwarf">
+			<name>Dwarf</name>
+		</heritage>
+		<heritage id="elf">
+			<name>Elf</name>
+		</heritage>
+		<heritage id="galeoni">
+			<name>Galeoni</name>
+		</heritage>
+		<heritage id="garoul">
+			<name>Garoul</name>
+		</heritage>
+		<heritage id="gnoll">
+			<name>Gnoll</name>
+		</heritage>
+		<heritage id="gnome">
+			<name>Gnome</name>
+		</heritage>
+		<heritage id="goblin">
+			<name>Goblin</name>
+		</heritage>
+		<heritage id="halfling">
+			<name>Halfling</name>
+		</heritage>
+		<heritage id="human">
+			<name>Human</name>
+		</heritage>
+		<heritage id="kobold">
+			<name>Kobold</name>
+		</heritage>
+		<heritage id="lizardfolk">
+			<name>Lizardfolk</name>
+		</heritage>
+		<heritage id="minotaur">
+			<name>Minotaur</name>
+		</heritage>
+		<heritage id="motley">
+			<name>Motley</name>
+		</heritage>
+		<heritage id="mycelial">
+			<name>Mycelial</name>
+		</heritage>
+		<heritage id="oozefolk">
+			<name>Oozefolk</name>
+		</heritage>
+		<heritage id="orc">
+			<name>Orc</name>
+		</heritage>
+		<heritage id="planetouched">
+			<name>Planetouched</name>
+		</heritage>
+		<heritage id="pode">
+			<name>Pode</name>
+		</heritage>
+		<heritage id="ratling">
+			<name>Ratling</name>
+		</heritage>
+		<heritage id="rockborn">
+			<name>Rockborn</name>
+		</heritage>
+		<heritage id="spiderfolk">
+			<name>Spiderfolk</name>
+		</heritage>
+	</heritages>
+	<cultures>
+		<culture id="bloodmarked">
+			<name>Bloodmarked</name>
+		</culture>
+		<culture id="bloodPack">
+			<name>Blood Pack</name>
+		</culture>
+		<culture id="caravanner">
+			<name>Caravanner</name>
+		</culture>
+		<culture id="carven">
+			<name>Carven</name>
+		</culture>
+		<culture id="circusfolk">
+			<name>Circusfolk</name>
+		</culture>
+		<culture id="collegiate">
+			<name>Collegiate</name>
+		</culture>
+		<culture id="cosmopolitan">
+			<name>Cosmopolitan</name>
+		</culture>
+		<culture id="cragkeeperSimirengo">
+			<name>Crag-Keeper Simirengo</name>
+		</culture>
+		<culture id="cubero">
+			<name>Cubero</name>
+		</culture>
+		<culture id="deepDwarf">
+			<name>Deep Dwarf</name>
+		</culture>
+		<culture id="deepGnome">
+			<name>Deep Gnome</name>
+		</culture>
+		<culture id="deGuerra">
+			<name>De Guerra</name>
+		</culture>
+		<culture id="dialectician">
+			<name>Dialectician</name>
+		</culture>
+		<culture id="dragonbound">
+			<name>Dragonbound</name>
+		</culture>
+		<culture id="dragoncult">
+			<name>Dragoncult</name>
+		</culture>
+		<culture id="dreamingWilds">
+			<name>Dreaming Wilds</name>
+		</culture>
+		<culture id="eladrin">
+			<name>Eladrin</name>
+		</culture>
+		<culture id="elfaivaran">
+			<name>Elfaivaran</name>
+		</culture>
+		<culture id="etherealScout">
+			<name>Ethereal Scout</name>
+		</culture>
+		<culture id="faceless">
+			<name>Faceless</name>
+		</culture>
+		<culture id="farflyerSimirengo">
+			<name>Far-Flyer Simirengo</name>
+		</culture>
+		<culture id="feyCourt">
+			<name>Fey Court</name>
+		</culture>
+		<culture id="forestGnome">
+			<name>Forest Gnome</name>
+		</culture>
+		<culture id="forgottenFolx">
+			<name>Forgotten Folx</name>
+		</culture>
+		<culture id="forsaken">
+			<name>Forsaken</name>
+		</culture>
+		<culture id="godbound">
+			<name>Godbound</name>
+		</culture>
+		<culture id="grimlock">
+			<name>Grimlock</name>
+		</culture>
+		<culture id="harimou">
+			<name>Harimou</name>
+		</culture>
+		<culture id="highElf">
+			<name>High Elf</name>
+		</culture>
+		<culture id="hillDwarf">
+			<name>Hill Dwarf</name>
+		</culture>
+		<culture id="imperial">
+			<name>Imperial</name>
+		</culture>
+		<culture id="itenerant">
+			<name>Itenerant</name>
+		</culture>
+		<culture id="kithbainHalfling">
+			<name>Kithbain Halfling</name>
+		</culture>
+		<culture id="loneWanderer">
+			<name>Lone Wanderer</name>
+		</culture>
+		<culture id="mariner">
+			<name>Mariner</name>
+		</culture>
+		<culture id="meldmember">
+			<name>Meld-Member</name>
+		</culture>
+		<culture id="mischiefMaker">
+			<name>Mischief Maker</name>
+		</culture>
+		<culture id="moonkeeper">
+			<name>Moonkeeper</name>
+		</culture>
+		<culture id="mountainDwarf">
+			<name>Mountain Dwarf</name>
+		</culture>
+		<culture id="mustbairnHalfling">
+			<name>Mustbairn Halfling</name>
+		</culture>
+		<culture id="nomad">
+			<name>Nomad</name>
+		</culture>
+		<culture id="outcastCollective">
+			<name>Outcast Collective</name>
+		</culture>
+		<culture id="pedresco">
+			<name>Pedresco</name>
+		</culture>
+		<culture id="settler">
+			<name>Settler</name>
+		</culture>
+		<culture id="sewerRat">
+			<name>Sewer Rat</name>
+		</culture>
+		<culture id="shadowElf">
+			<name>Shadow Elf</name>
+		</culture>
+		<culture id="skyseekerSimirengo">
+			<name>Sky-Seeker Simirengo</name>
+		</culture>
+		<culture id="spinnerCult">
+			<name>Spinner Cult</name>
+		</culture>
+		<culture id="steamforged">
+			<name>Steamforged</name>
+		</culture>
+		<culture id="steelmarked">
+			<name>Steelmarked</name>
+		</culture>
+		<culture id="stoicOrc">
+			<name>Stoic Orc</name>
+		</culture>
+		<culture id="stoneworthy">
+			<name>Stoneworthy</name>
+		</culture>
+		<culture id="stoutHalfling">
+			<name>Stout Halfling</name>
+		</culture>
+		<culture id="sunlessMariner">
+			<name>Sunless Mariner</name>
+		</culture>
+		<culture id="tinkerGnome">
+			<name>Tinker Gnome</name>
+		</culture>
+		<culture id="tunnelHalfling">
+			<name>Tunnel Halfling</name>
+		</culture>
+		<culture id="tyrannized">
+			<name>Tyrannized</name>
+		</culture>
+		<culture id="underharvester">
+			<name>Underharvester</name>
+		</culture>
+		<culture id="underlander">
+			<name>Underlander</name>
+		</culture>
+		<culture id="villager">
+			<name>Villager</name>
+		</culture>
+		<culture id="warhordling">
+			<name>Warhordling</name>
+		</culture>
+		<culture id="wildling">
+			<name>Wildling</name>
+		</culture>
+		<culture id="woodElf">
+			<name>Wood Elf</name>
+		</culture>
+	</cultures>
+	<backgrounds>
+		<background id="acolyte">
+			<name>Acolyte</name>
+		</background>
+		<background id="archaeologist">
+			<name>Archaeologist</name>
+		</background>
+		<background id="artisan">
+			<name>Artisan</name>
+		</background>
+		<background id="charlatan">
+			<name>Charlatan</name>
+		</background>
+		<background id="convict">
+			<name>Convict</name>
+		</background>
+		<background id="criminal">
+			<name>Criminal</name>
+		</background>
+		<background id="cuberHerder">
+			<name>Cuber Herder</name>
+		</background>
+		<background id="cultist">
+			<name>Cultist</name>
+		</background>
+		<background id="cursed">
+			<name>Cursed</name>
+		</background>
+		<background id="deepHunter">
+			<name>Deep Hunter</name>
+		</background>
+		<background id="dungeonRobber">
+			<name>Dungeon Robber</name>
+		</background>
+		<background id="eccentricExperimenter">
+			<name>Eccentric Experimenter</name>
+		</background>
+		<background id="entertainer">
+			<name>Entertainer</name>
+		</background>
+		<background id="escapeeFromBelow">
+			<name>Escapee from Below</name>
+		</background>
+		<background id="exile">
+			<name>Exile</name>
+		</background>
+		<background id="factionAgent">
+			<name>Faction Agent</name>
+		</background>
+		<background id="farmer">
+			<name>Farmer</name>
+		</background>
+		<background id="feyServant">
+			<name>Fey Servant</name>
+		</background>
+		<background id="folkHero">
+			<name>Folk Hero</name>
+		</background>
+		<background id="gambler">
+			<name>Gambler</name>
+		</background>
+		<background id="guard">
+			<name>Guard</name>
+		</background>
+		<background id="guildmember">
+			<name>Guildmember</name>
+		</background>
+		<background id="haunted">
+			<name>Haunted</name>
+		</background>
+		<background id="hedgeWitch">
+			<name>Hedge Witch</name>
+		</background>
+		<background id="hermit">
+			<name>Hermit</name>
+		</background>
+		<background id="investigator">
+			<name>Investigator</name>
+		</background>
+		<background id="marauder">
+			<name>Marauder</name>
+		</background>
+		<background id="monsterSlayer">
+			<name>Monster Slayer</name>
+		</background>
+		<background id="noble">
+			<name>Noble</name>
+		</background>
+		<background id="outlander">
+			<name>Outlander</name>
+		</background>
+		<background id="rivenMind">
+			<name>Riven Mind</name>
+		</background>
+		<background id="sage">
+			<name>Sage</name>
+		</background>
+		<background id="sailor">
+			<name>Sailor</name>
+		</background>
+		<background id="soldier">
+			<name>Soldier</name>
+		</background>
+		<background id="trader">
+			<name>Trader</name>
+		</background>
+		<background id="urchin">
+			<name>Urchin</name>
+		</background>
+	</backgrounds>
+	<destinies>
+		<destiny id="Chaos">
+			<name>Chaos</name>
+		</destiny>
+		<destiny id="Coming of Age">
+			<name>Coming of Age</name>
+		</destiny>
+		<destiny id="Darkness">
+			<name>Darkness</name>
+		</destiny>
+		<destiny id="Death">
+			<name>Death</name>
+		</destiny>
+		<destiny id="Devotion">
+			<name>Devotion</name>
+		</destiny>
+		<destiny id="Dominion">
+			<name>Dominion</name>
+		</destiny>
+		<destiny id="Excellence">
+			<name>Excellence</name>
+		</destiny>
+		<destiny id="Fire">
+			<name>Fire</name>
+		</destiny>
+		<destiny id="Ice">
+			<name>Ice</name>
+		</destiny>
+		<destiny id="Knowledge">
+			<name>Knowledge</name>
+		</destiny>
+		<destiny id="Light">
+			<name>Light</name>
+		</destiny>
+		<destiny id="Metamorphosis">
+			<name>Metamorphosis</name>
+		</destiny>
+		<destiny id="Prophecy">
+			<name>Prophecy</name>
+		</destiny>
+		<destiny id="Revenge">
+			<name>Revenge</name>
+		</destiny>
+		<destiny id="Slayer">
+			<name>Slayer</name>
+		</destiny>
+		<destiny id="Underdog">
+			<name>Underdog</name>
+		</destiny>
+		<destiny id="Wealth">
+			<name>Wealth</name>
+		</destiny>
+	</destinies>
+	<classes>
+		<class id="Adept">
+			<name>Adept</name>
+			<archetypes>
+				<archetype id="Brawler">
+					<name>Brawler</name>
+				</archetype>
+				<archetype id="Bruiser">
+					<name>Bruiser</name>
+				</archetype>
+				<archetype id="Durala Carao">
+					<name>Durala Carao</name>
+				</archetype>
+				<archetype id="Exalted Athlete">
+					<name>Exalted Athlete</name>
+				</archetype>
+				<archetype id="Quickstepper">
+					<name>Quickstepper</name>
+				</archetype>
+				<archetype id="Tranquil Master">
+					<name>Tranquil Master</name>
+				</archetype>
+				<archetype id="Warrior Monk">
+					<name>Warrior Monk</name>
+				</archetype>
+			</archetypes>
+		</class>
+		<class id="Artificer">
+			<name>Artificer</name>
+			<archetypes>
+				<archetype id="Bombardier">
+					<name>Bombardier</name>
+				</archetype>
+				<archetype id="Machinist">
+					<name>Machinist</name>
+				</archetype>
+				<archetype id="Sticher">
+					<name>Sticher</name>
+				</archetype>
+			</archetypes>
+		</class>
+		<class id="Bard">
+			<name>Bard</name>
+			<archetypes>
+				<archetype id="Hotshot">
+					<name>Hotshot</name>
+				</archetype>
+				<archetype id="Loremaster">
+					<name>Loremaster</name>
+				</archetype>
+				<archetype id="Lore Weaver">
+					<name>Lore Weaver</name>
+				</archetype>
+				<archetype id="Minstrel">
+					<name>Minstrel</name>
+				</archetype>
+				<archetype id="Mountebank">
+					<name>Mountebank</name>
+				</archetype>
+				<archetype id="Sound Sculptor">
+					<name>Sound Sculptor</name>
+				</archetype>
+				<archetype id="Vagabond">
+					<name>Vagabond</name>
+				</archetype>
+				<archetype id="Warchanter">
+					<name>Warchanter</name>
+				</archetype>
+			</archetypes>
+		</class>
+		<class id="Berserker">
+			<name>Berserker</name>
+			<archetypes>
+				<archetype id="Bear-Bonded">
+					<name>Bear-Bonded</name>
+				</archetype>
+				<archetype id="Defiant">
+					<name>Defiant</name>
+				</archetype>
+				<archetype id="Dreadnought">
+					<name>Dreadnought</name>
+				</archetype>
+				<archetype id="Queen Bee">
+					<name>Queen Bee</name>
+				</archetype>
+				<archetype id="Rager">
+					<name>Rager</name>
+				</archetype>
+				<archetype id="Tempest">
+					<name>Tempest</name>
+				</archetype>
+				<archetype id="Trollslayer">
+					<name>Trollslayer</name>
+				</archetype>
+			</archetypes>
+		</class>
+		<class id="Cleric">
+			<name>Cleric</name>
+			<archetypes>
+				<archetype id="Aspirant">
+					<name>Aspirant</name>
+				</archetype>
+				<archetype id="Healer">
+					<name>Healer</name>
+				</archetype>
+				<archetype id="Labyrinth Priest">
+					<name>Labyrinth Priest</name>
+				</archetype>
+				<archetype id="Oracle">
+					<name>Oracle</name>
+				</archetype>
+				<archetype id="Sun Priest">
+					<name>Sun Priest</name>
+				</archetype>
+				<archetype id="Warpriest">
+					<name>Warpriest</name>
+				</archetype>
+			</archetypes>
+		</class>
+		<class id="Druid">
+			<name>Druid</name>
+			<archetypes>
+				<archetype id="Axis Slayer">
+					<name>Axis Slayer</name>
+				</archetype>
+				<archetype id="Decomposer">
+					<name>Decomposer</name>
+				</archetype>
+				<archetype id="Guardian">
+					<name>Guardian</name>
+				</archetype>
+				<archetype id="Skinchanger">
+					<name>Skinchanger</name>
+				</archetype>
+				<archetype id="Steel Renegade">
+					<name>Steel Renegade</name>
+				</archetype>
+				<archetype id="Stormwalker">
+					<name>Stormwalker</name>
+				</archetype>
+				<archetype id="Treespeaker">
+					<name>Treespeaker</name>
+				</archetype>
+			</archetypes>
+		</class>
+		<class id="Fighter">
+			<name>Fighter</name>
+			<archetypes>
+				<archetype id="Bladeseer">
+					<name>Bladeseer</name>
+				</archetype>
+				<archetype id="Brute">
+					<name>Brute</name>
+				</archetype>
+				<archetype id="Charging Shield">
+					<name>Charging Shield</name>
+				</archetype>
+				<archetype id="Dungeoneer">
+					<name>Dungeoneer</name>
+				</archetype>
+				<archetype id="Duelist">
+					<name>Duelist</name>
+				</archetype>
+				<archetype id="Gadgeteer">
+					<name>Gadgeteer</name>
+				</archetype>
+				<archetype id="Gladiator">
+					<name>Gladiator</name>
+				</archetype>
+				<archetype id="Houndmaster">
+					<name>Houndmaster</name>
+				</archetype>
+				<archetype id="Knight">
+					<name>Knight</name>
+				</archetype>
+				<archetype id="Militarist">
+					<name>Militarist</name>
+				</archetype>
+				<archetype id="Scoundrel">
+					<name>Scoundrel</name>
+				</archetype>
+				<archetype id="Sharpshooter">
+					<name>Sharpshooter</name>
+				</archetype>
+			</archetypes>
+		</class>
+		<class id="Herald">
+			<name>Herald</name>
+			<archetypes>
+				<archetype id="Executore">
+					<name>Executore</name>
+				</archetype>
+				<archetype id="Green Knight">
+					<name>Green Knight</name>
+				</archetype>
+				<archetype id="Holy Champion">
+					<name>Holy Champion</name>
+				</archetype>
+				<archetype id="Inquisitor">
+					<name>Inquisitor</name>
+				</archetype>
+				<archetype id="Revoker">
+					<name>Revoker</name>
+				</archetype>
+				<archetype id="Stone Warden">
+					<name>Stone Warden</name>
+				</archetype>
+			</archetypes>
+		</class>
+		<class id="Marshal">
+			<name>Marshal</name>
+			<archetypes>
+				<archetype id="Chief Enforcer">
+					<name>Chief Enforcer</name>
+				</archetype>
+				<archetype id="Concordant Commander">
+					<name>Concordant Commander</name>
+				</archetype>
+				<archetype id="Expedition Leader">
+					<name>Expedition Leader</name>
+				</archetype>
+				<archetype id="Gambling General">
+					<name>Gambling General</name>
+				</archetype>
+				<archetype id="Knight Commander">
+					<name>Knight Commander</name>
+				</archetype>
+				<archetype id="Lionheart">
+					<name>Lionheart</name>
+				</archetype>
+				<archetype id="Seafaring Scourge">
+					<name>Seafaring Scourge</name>
+				</archetype>
+				<archetype id="Swift Strategist">
+					<name>Swift Strategist</name>
+				</archetype>
+				<archetype id="Talented Tactician">
+					<name>Talented Tactician</name>
+				</archetype>
+			</archetypes>
+		</class>
+		<class id="Ranger">
+			<name>Ranger</name>
+			<archetypes>
+				<archetype id="Beastmaster">
+					<name>Beastmaster</name>
+				</archetype>
+				<archetype id="Fantastic Fletcher">
+					<name>Fantastic Fletcher</name>
+				</archetype>
+				<archetype id="Monster Hunter">
+					<name>Monster Hunter</name>
+				</archetype>
+				<archetype id="Partisan">
+					<name>Partisan</name>
+				</archetype>
+				<archetype id="Skilled Survivalist">
+					<name>Skilled Survivalist</name>
+				</archetype>
+				<archetype id="Titanist">
+					<name>Titanist</name>
+				</archetype>
+				<archetype id="Warden">
+					<name>Warden</name>
+				</archetype>
+				<archetype id="Wildborn">
+					<name>Wildborn</name>
+				</archetype>
+			</archetypes>
+		</class>
+		<class id="Rogue">
+			<name>Rogue</name>
+			<archetypes>
+				<archetype id="Bodyguard">
+					<name>Bodyguard</name>
+				</archetype>
+				<archetype id="Burglar">
+					<name>Burglar</name>
+				</archetype>
+				<archetype id="Contriver">
+					<name>Contriver</name>
+				</archetype>
+				<archetype id="Courtier">
+					<name>Courtier</name>
+				</archetype>
+				<archetype id="Cutthroat">
+					<name>Cutthroat</name>
+				</archetype>
+				<archetype id="Investigator">
+					<name>Investigator</name>
+				</archetype>
+				<archetype id="Occult Blade">
+					<name>Occult Blade</name>
+				</archetype>
+				<archetype id="Shadow Stalker">
+					<name>Shadow Stalker</name>
+				</archetype>
+				<archetype id="Throwing Ace">
+					<name>Throwing Ace</name>
+				</archetype>
+				<archetype id="Trapsmith">
+					<name>Trapsmith</name>
+				</archetype>
+			</archetypes>
+		</class>
+		<class id="Savant">
+			<name>Savant</name>
+			<archetypes>
+				<archetype id="Avantist">
+					<name>Avantist</name>
+				</archetype>
+				<archetype id="Diplomat">
+					<name>Diplomat</name>
+				</archetype>
+				<archetype id="Naturalist">
+					<name>Naturalist</name>
+				</archetype>
+				<archetype id="Steward">
+					<name>Steward</name>
+				</archetype>
+				<archetype id="Vanguard">
+					<name>Vanguard</name>
+				</archetype>
+				<archetype id="Vox">
+					<name>Vox</name>
+				</archetype>
+			</archetypes>
+		</class>
+		<class id="Sorcerer">
+			<name>Sorcerer</name>
+			<archetypes>
+				<archetype id="Annihilator">
+					<name>Annihilator</name>
+				</archetype>
+				<archetype id="Draconist">
+					<name>Draconist</name>
+				</archetype>
+				<archetype id="Enigma">
+					<name>Enigma</name>
+				</archetype>
+				<archetype id="Songweaver">
+					<name>Songweaver</name>
+				</archetype>
+				<archetype id="Stoneheart">
+					<name>Stoneheart</name>
+				</archetype>
+				<archetype id="Traveler">
+					<name>Traveler</name>
+				</archetype>
+			</archetypes>
+		</class>
+		<class id="Warlock">
+			<name>Warlock</name>
+			<archetypes>
+				<archetype id="Alienist">
+					<name>Alienist</name>
+				</archetype>
+				<archetype id="Diabolist">
+					<name>Diabolist</name>
+				</archetype>
+				<archetype id="Dread Knight">
+					<name>Dread Knight</name>
+				</archetype>
+				<archetype id="Eldritch Gunslinger">
+					<name>Eldritch Gunslinger</name>
+				</archetype>
+				<archetype id="Fatewoven">
+					<name>Fatewoven</name>
+				</archetype>
+				<archetype id="Gyre Gazer">
+					<name>Gyre Gazer</name>
+				</archetype>
+				<archetype id="Mutant">
+					<name>Mutant</name>
+				</archetype>
+				<archetype id="Spellbound">
+					<name>Spellbound</name>
+				</archetype>
+				<archetype id="Unnaturalist">
+					<name>Unnaturalist</name>
+				</archetype>
+				<archetype id="Urbanist">
+					<name>Urbanist</name>
+				</archetype>
+			</archetypes>
+		</class>
+		<class id="Wizard">
+			<name>Wizard</name>
+			<archetypes>
+				<archetype id="Arcanist">
+					<name>Arcanist</name>
+				</archetype>
+				<archetype id="Court Magician">
+					<name>Court Magician</name>
+				</archetype>
+				<archetype id="Enclavist">
+					<name>Enclavist</name>
+				</archetype>
+				<archetype id="Last Raven">
+					<name>Last Raven</name>
+				</archetype>
+				<archetype id="Mage">
+					<name>Mage</name>
+				</archetype>
+				<archetype id="Necromancer">
+					<name>Necromancer</name>
+				</archetype>
+				<archetype id="Oozemancer">
+					<name>Oozemancer</name>
+				</archetype>
+				<archetype id="Pyromancer">
+					<name>Pyromancer</name>
+				</archetype>
+				<archetype id="Warmage">
+					<name>Warmage</name>
+				</archetype>
+			</archetypes>
+		</class>
+	</classes>
+	<feats>
+		<feat id="aceDriver">
+			<name>Ace Driver</name>
+			<source id="ag">Adventurer's Guide</source>
+		</feat>
+		<feat id="adamantineProtector">
+			<name>Adamantine Protector</name>
+			<source id="gz5">Gate Pass Gazette #5</source>
+		</feat>
+		<feat id="alleyAdventurer">
+			<name>Alley Adventurer</name>
+			<source id="gz10">Gate Pass Gazette #10</source>
+		</feat>
+		<feat id="arcanumMaster">
+			<name>Arcanum Master</name>
+			<source id="ag">Adventurer's Guide</source>
+		</feat>
+		<feat id="arctechTinkerer">
+			<name>Arctech Tinkerer</name>
+			<source id="az">Adventures in ZEITGEIST</source>
+		</feat>
+		<feat id="alphaWereboar">
+			<name>Alpha Wereboar</name>
+			<source id="gz0">Gate Pass Gazette Issue #0</source>
+		</feat>
+		<feat id="arrowEnchanter">
+			<name>Arrow Enchanter</name>
+			<source id="ag">Adventurer's Guide</source>
+		</feat>
+		<feat id="aSymbolThatStrikesFear">
+			<name>A Symbol That Strikes Fear</name>
+			<source id="ag">Adventurer's Guide</source>
+		</feat>
+		<feat id="athletic">
+			<name>Athletic</name>
+			<source id="ag">Adventurer's Guide</source>
+		</feat>
+		<feat id="attentive">
+			<name>Attentive</name>
+			<source id="ag">Adventurer's Guide</source>
+		</feat>
+		<feat id="battleCaster">
+			<name>Battle Caster</name>
+			<source id="ag">Adventurer's Guide</source>
+		</feat>
+		<feat id="bladechanter">
+			<name>Bladechanter</name>
+			<source id="ag">Adventurer's Guide</source>
+		</feat>
+		<feat id="boundlessMind">
+			<name>Boundless Mind</name>
+			<source id="gz5">Gate Pass Gazette #5</source>
+		</feat>
+		<feat id="bronzeProtector">
+			<name>Bronze Protector</name>
+			<source id="gz5">Gate Pass Gazette #5</source>
+		</feat>
+		<feat id="brookNoDelay">
+			<name>Brook No Delay</name>
+			<source id="az">Adventures in ZEITGEIST</source>
+		</feat>
+		<feat id="brutalAttack">
+			<name>Brutal Attack</name>
+			<source id="ag">Adventurer's Guide</source>
+		</feat>
+		<feat id="bullRush">
+			<name>Bull Rush</name>
+			<source id="ag">Adventurer's Guide</source>
+		</feat>
+		<feat id="citySurvivor">
+			<name>City Survivor</name>
+			<source id="gz10">Gate Pass Gazette #10</source>
+		</feat>
+		<feat id="combatThievery">
+			<name>Combat Thievery</name>
+			<source id="ag">Adventurer's Guide</source>
+		</feat>
+		<feat id="covertTraining">
+			<name>Covert Training</name>
+			<source id="ag">Adventurer's Guide</source>
+		</feat>
+		<feat id="craftingExpert">
+			<name>Crafting Expert</name>
+			<source id="ag">Adventurer's Guide</source>
+		</feat>
+		<feat id="crawlingTeleporter">
+			<name>Crawling Teleporter</name>
+			<source id="gz5">Gate Pass Gazette #5</source>
+		</feat>
+		<feat id="curseBreaker">
+			<name>Curse Breaker</name>
+			<source id="gz0">Gate Pass Gazette Issue #0</source>
+		</feat>
+		<feat id="crossbowExpertise">
+			<name>Crossbow Expertise</name>
+			<source id="ag">Adventurer's Guide</source>
+		</feat>
+		<feat id="deadeye">
+			<name>Deadeye</name>
+			<source id="ag">Adventurer's Guide</source>
+		</feat>
+		<feat id="deflector">
+			<name>Deflector</name>
+			<source id="ag">Adventurer's Guide</source>
+		</feat>
+		<feat id="destiny'sCall">
+			<name>Destiny's Call</name>
+			<source id="ag">Adventurer's Guide</source>
+		</feat>
+		<feat id="dimensionalStep">
+			<name>Dimensional Step</name>
+			<source id="gz5">Gate Pass Gazette #5</source>
+		</feat>
+		<feat id="displayofHeroism">
+			<name>Display of Heroism</name>
+			<source id="az">Adventures in ZEITGEIST</source>
+		</feat>
+		<feat id="divineOrator">
+			<name>Divine Orator</name>
+			<source id="ag">Adventurer's Guide</source>
+		</feat>
+		<feat id="docker'sJank">
+			<name>Docker's Jank</name>
+			<source id="az">Adventures in ZEITGEIST</source>
+		</feat>
+		<feat id="dualwieldingExpert">
+			<name>Dual-Wielding Expert</name>
+			<source id="ag">Adventurer's Guide</source>
+		</feat>
+		<feat id="dungeoneer">
+			<name>Dungeoneer</name>
+			<source id="ag">Adventurer's Guide</source>
+		</feat>
+		<feat id="eldritchArcher">
+			<name>Eldritch Archer</name>
+			<source id="ag">Adventurer's Guide</source>
+		</feat>
+		<feat id="eldritchVolleyMaster">
+			<name>Eldritch Volley Master</name>
+			<source id="ag">Adventurer's Guide</source>
+		</feat>
+		<feat id="eldritchWhirlwindMaster">
+			<name>Eldritch Whirlwind Master</name>
+			<source id="ag">Adventurer's Guide</source>
+		</feat>
+		<feat id="empathic">
+			<name>Empathic</name>
+			<source id="ag">Adventurer's Guide</source>
+		</feat>
+		<feat id=equippedforJustice>
+			<name>Equipped for Justice</name>
+			<source id="ag">Adventurer's Guide</source>
+		</feat>
+		<feat id="expressionofBelief">
+			<name>Expression of Belief</name>
+			<source id="az">Adventures in ZEITGEIST</source>
+		</feat>
+		<feat id="eyeoftheTiger">
+			<name>Eye of the Tiger</name>
+			<source id="gz0">Gate Pass Gazette Issue #0</source>
+		</feat>
+		<feat id="faceintheCrowd">
+			<name>Face in the Crowd</name>
+			<source id="gz10">Gate Pass Gazette #10</source>
+		</feat>
+		<feat id="familiarwiththeWatch">
+			<name>Familiar with the Watch</name>
+			<source id="gz10">Gate Pass Gazette #10</source>
+		</feat>
+		<feat id="fearBreaker">
+			<name>Fear Breaker</name>
+			<source id="ag">Adventurer's Guide</source>
+		</feat>
+		<feat id="fortunate">
+			<name>Fortunate</name>
+			<source id="ag">Adventurer's Guide</source>
+		</feat>
+		<feat id="frozenSteps">
+			<name>Frozen Steps</name>
+			<source id="gz5">Gate Pass Gazette #5</source>
+		</feat>
+		<feat id="gotoGround">
+			<name>Go to Ground</name>
+			<source id="az">Adventures in ZEITGEIST</source>
+		</feat>
+		<feat id="grappler">
+			<name>Grappler</name>
+			<source id="ag">Adventurer's Guide</source>
+		</feat>
+		<feat id="guardedWarrior">
+			<name>Guarded Warrior</name>
+			<source id="ag">Adventurer's Guide</source>
+		</feat>
+		<feat id="handofRetribution">
+			<name>Hand of Retribution</name>
+			<source id="az">Adventures in ZEITGEIST</source>
+		</feat>
+		<feat id="harbingerofThingstoCome">
+			<name>Harbinger of Things to Come</name>
+			<source id="ag">Adventurer's Guide</source>
+		</feat>
+		<feat id="hardyAdventurer">
+			<name>Hardy Adventurer</name>
+			<source id="ag">Adventurer's Guide</source>
+		</feat>
+		<feat id="heavilyOutfitted">
+			<name>Heavily Outfitted</name>
+			<source id="ag">Adventurer's Guide</source>
+		</feat>
+		<feat id="heavyArmorExpertise">
+			<name>Heavy Armor Expertise</name>
+			<source id="ag">Adventurer's Guide</source>
+		</feat>
+		<feat id="heraldicTraining">
+			<name>Heraldic Training</name>
+			<source id="ag">Adventurer's Guide</source>
+		</feat>
+		<feat id="hiddenArmorer">
+			<name>Hidden Armorer</name>
+			<source id="gz10">Gate Pass Gazette #10</source>
+		</feat>
+		<feat id="howlattheMoon">
+			<name>Howl at the Moon</name>
+			<source id="gz0">Gate Pass Gazette Issue #0</source>
+		</feat>
+		<feat id="hulking">
+			<name>Hulking</name>
+			<source id="gz5">Gate Pass Gazette #5</source>
+		</feat>
+		<feat id="hybernatingAffliction">
+			<name>Hybernating Affliction</name>
+			<source id="gz0">Gate Pass Gazette Issue #0</source>
+		</feat>
+		<feat id="iceborn">
+			<name>Iceborn</name>
+			<source id="gz5">Gate Pass Gazette #5</source>
+		</feat>
+		<feat id="idealisticLeader">
+			<name>Idealistic Leader</name>
+			<source id="ag">Adventurer's Guide</source>
+		</feat>
+		<feat id="impossiblyHulking">
+			<name>Impossibly Hulking</name>
+			<source id="gz5">Gate Pass Gazette #5</source>
+		</feat>
+		<feat id="intuitive">
+			<name>Intuitive</name>
+			<source id="ag">Adventurer's Guide</source>
+		</feat>
+		<feat id="keenIntellect">
+			<name>Keen Intellect</name>
+			<source id="ag">Adventurer's Guide</source>
+		</feat>
+		<feat id="lightlyOutfitted">
+			<name>Lightly Outfitted</name>
+			<source id="ag">Adventurer's Guide</source>
+		</feat>
+		<feat id="linguisticsExpert">
+			<name>Linguistics Expert</name>
+			<source id="ag">Adventurer's Guide</source>
+		</feat>
+		<feat id="livingStampede">
+			<name>Living Stampede</name>
+			<source id="ag">Adventurer's Guide</source>
+		</feat>
+		<feat id="martialScholar">
+			<name>Martial Scholar</name>
+			<source id="ag">Adventurer's Guide</source>
+		</feat>
+		<feat id="martialStudies">
+			<name>Martial Studies</name>
+			<source id="az">Adventures in ZEITGEIST</source>
+		</feat>
+		<feat id="mediumArmorExpert">
+			<name>Medium Armor Expert</name>
+			<source id="ag">Adventurer's Guide</source>
+		</feat>
+		<feat id="mentalMastery">
+			<name>Mental Mastery</name>
+			<source id="gz5">Gate Pass Gazette #5</source>
+		</feat>
+		<feat id="moderatelyOutfitted">
+			<name>Moderately Outfitted</name>
+			<source id="ag">Adventurer's Guide</source>
+		</feat>
+		<feat id="monsterHunter">
+			<name>Monster Hunter</name>
+			<source id="ag">Adventurer's Guide</source>
+		</feat>
+		<feat id="moonhowler">
+			<name>Moonhowler</name>
+			<source id="gz0">Gate Pass Gazette Issue #0</source>
+		</feat>
+		<feat id="moonSpeech">
+			<name>Moon Speech</name>
+			<source id="gz0">Gate Pass Gazette Issue #0</source>
+		</feat>
+		<feat id="moonStyle">
+			<name>Moon Style</name>
+			<source id="gz0">Gate Pass Gazette Issue #0</source>
+		</feat>
+		<feat id="mountedWarrior">
+			<name>Mounted Warrior</name>
+			<source id="ag">Adventurer's Guide</source>
+		</feat>
+		<feat id="mysticalTalent">
+			<name>Mystical Talent</name>
+			<source id="ag">Adventurer's Guide</source>
+		</feat>
+		<feat id="mysticArcanist">
+			<name>Mystic Arcanist</name>
+			<source id="ag">Adventurer's Guide</source>
+		</feat>
+		<feat id="naturalWarrior">
+			<name>Natural Warrior</name>
+			<source id="ag">Adventurer's Guide</source>
+		</feat>
+		<feat id="neighborhoodFigure">
+			<name>Neighborhood Figure</name>
+			<source id="gz10">Gate Pass Gazette #10</source>
+		</feat>
+		<feat id="newblood">
+			<name>Newblood</name>
+			<source id="ag">Adventurer's Guide</source>
+		</feat>
+		<feat id="newMoonWerebear">
+			<name>New Moon Werebear</name>
+			<source id="gz0">Gate Pass Gazette Issue #0</source>
+		</feat>
+		<feat id="newMoonWereboar">
+			<name>New Moon Wereboar</name>
+			<source id="gz0">Gate Pass Gazette Issue #0</source>
+		</feat>
+		<feat id="newMoonWererat">
+			<name>New Moon Wererat</name>
+			<source id="gz0">Gate Pass Gazette Issue #0</source>
+		</feat>
+		<feat id="newMoonWeretiger">
+			<name>New Moon Weretiger</name>
+			<source id="gz0">Gate Pass Gazette Issue #0</source>
+		</feat>
+		<feat id="newMoonWerewolf">
+			<name>New Moon Werewolf</name>
+			<source id="gz0">Gate Pass Gazette Issue #0</source>
+		</feat>
+		<feat id="nightMaster">
+			<name>Night Master</name>
+			<source id="ag">Adventurer's Guide</source>
+		</feat>
+		<feat id="nightstalker">
+			<name>Nightstalker</name>
+			<source id="ag">Adventurer's Guide</source>
+		</feat>
+		<feat id="officeHolder">
+			<name>Office Holder</name>
+			<source id="gz10">Gate Pass Gazette Issue #10</source>
+		</feat>
+		<feat id="packInitiate">
+			<name>Pack Initiate</name>
+			<source id="gz0">Gate Pass Gazette Issue #0</source>
+		</feat>
+		<feat id="physician">
+			<name>Physician</name>
+			<source id="ag">Adventurer's Guide</source>
+		</feat>
+		<feat id="pillaroftheCommunity">
+			<name>Pillar of the Community</name>
+			<source id="gz10">Gate Pass Gazette #10</source>
+		</feat>
+		<feat id="polearmSavant">
+			<name>Polearm Savant</name>
+			<source id="ag">Adventurer's Guide</source>
+		</feat>
+		<feat id="politician">
+			<name>Politician</name>
+			<source id="gz10">Gate Pass Gazette #10</source>
+		</feat>
+		<feat id="powerCaster">
+			<name>Power Caster</name>
+			<source id="ag">Adventurer's Guide</source>
+		</feat>
+		<feat id="powerfulAttacker">
+			<name>Powerful Attacker</name>
+			<source id="ag">Adventurer's Guide</source>
+		</feat>
+		<feat id="primordialAttacker">
+			<name>Primordial Attacker</name>
+			<source id="ag">Adventurer's Guide</source>
+		</feat>
+		<feat id="proclaimer">
+			<name>Proclaimer</name>
+			<source id="ag">Adventurer's Guide</source>
+		</feat>
+		<feat id="pureArcanist">
+			<name>Pure Arcanist</name>
+			<source id="ag">Adventurer's Guide</source>
+		</feat>
+		<feat id="rallyingSpeaker">
+			<name>Rallying Speaker</name>
+			<source id="ag">Adventurer's Guide</source>
+		</feat>
+		<feat id="ratWithin">
+			<name>Rat Within</name>
+			<source id="gz0">Gate Pass Gazette Issue #0</source>
+		</feat>
+		<feat id="resonantBond">
+			<name>Resonant Bond</name>
+			<source id="ag">Adventurer's Guide</source>
+		</feat>
+		<feat id="revenant">
+			<name>Revenant</name>
+			<source id="ag">Adventurer's Guide</source>
+		</feat>
+		<feat id="riteMaster">
+			<name>Rite Master</name>
+			<source id="ag">Adventurer's Guide</source>
+		</feat>
+		<feat id="rodentEmbraced">
+			<name>Rodent Embraced</name>
+			<source id="gz0">Gate Pass Gazette Issue #0</source>
+		</feat>
+		<feat id="secondStoryWorker">
+			<name>Second Story Worker</name>
+			<source id="gz10">Gate Pass Gazette Issue #10</source>
+		</feat>
+		<feat id="shadowAssassin">
+			<name>Shadow Assassin</name>
+			<source id="ag">Adventurer's Guide</source>
+		</feat>
+		<feat id="shadowdancer">
+			<name>Shadowdancer</name>
+			<source id="ag">Adventurer's Guide</source>
+		</feat>
+		<feat id="shadowmancer">
+			<name>Shadowmancer</name>
+			<source id="ag">Adventurer's Guide</source>
+		</feat>
+		<feat id="shieldFocus">
+			<name>Shield Focus</name>
+			<source id="ag">Adventurer's Guide</source>
+		</feat>
+		<feat id="skillful">
+			<name>Skillful</name>
+			<source id="ag">Adventurer's Guide</source>
+		</feat>
+		<feat id="skirmisher">
+			<name>Skirmisher</name>
+			<source id="ag">Adventurer's Guide</source>
+		</feat>
+		<feat id="skyseerVision">
+			<name>Skyseer Vision</name>
+			<source id="az">Adventures in ZEITGEIST</source>
+		</feat>
+		<feat id="snoop">
+			<name>Snoop</name>
+			<source id="gz10">Gate Pass Gazette Issue #10</source>
+		</feat>
+		<feat id="spellbreaker">
+			<name>Spellbreaker</name>
+			<source id="ag">Adventurer's Guide</source>
+		</feat>
+		<feat id="stalwart">
+			<name>Stalwart</name>
+			<source id="ag">Adventurer's Guide</source>
+		</feat>
+		<feat id="stealthExpert">
+			<name>Stealth Expert</name>
+			<source id="ag">Adventurer's Guide</source>
+		</feat>
+		<feat id="steelProtector">
+			<name>Steel Protector</name>
+			<source id="gz5">Gate Pass Gazette #5</source>
+		</feat>
+		<feat id="streetFighter">
+			<name>Street Fighter</name>
+			<source id="ag">Adventurer's Guide</source>
+		</feat>
+		<feat id="strengththroughAuthority">
+			<name>Strength through Authority</name>
+			<source id="az">Adventures in ZEITGEIST</source>
+		</feat>
+		<feat id="stripedSoul">
+			<name>Striped Soul</name>
+			<source id="gz0">Gate Pass Gazette Issue #0</source>
+		</feat>
+		<feat id="subtlySkilled">
+			<name>Subtly Skilled</name>
+			<source id="ag">Adventurer's Guide</source>
+		</feat>
+		<feat id="subzeroSoul">
+			<name>Subzero Soul</name>
+			<source id="gz5">Gate Pass Gazette #5</source>
+		</feat>
+		<feat id="surgicalCombatant">
+			<name>Surgical Combatant</name>
+			<source id="ag">Adventurer's Guide</source>
+		</feat>
+		<feat id="survivor">
+			<name>Survivor</name>
+			<source id="ag">Adventurer's Guide</source>
+		</feat>
+		<feat id="swiftCombatant">
+			<name>Swift Combatant</name>
+			<source id="ag">Adventurer's Guide</source>
+		</feat>
+		<feat id="swineheart">
+			<name>Swineheart</name>
+			<source id="gz0">Gate Pass Gazette Issue #0</source>
+		</feat>
+		<feat id="tacticalSupport">
+			<name>Tactical Support</name>
+			<source id="ag">Adventurer's Guide</source>
+		</feat>
+		<feat id="talentedTelepath">
+			<name>Talented Telepath</name>
+			<source id="gz5">Gate Pass Gazette #5</source>
+		</feat>
+		<feat id="tavernFly">
+			<name>Tavern Fly</name>
+			<source id="gz10">Gate Pass Gazette Issue #10</source>
+		</feat>
+		<feat id="teleportingCombatant">
+			<name>Teleporting Combatant</name>
+			<source id="gz5">Gate Pass Gazette #5</source>
+		</feat>
+		<feat id="tenacious">
+			<name>Tenacious</name>
+			<source id="ag">Adventurer's Guide</source>
+		</feat>
+		<feat id="theManwithTwoGunsisGod">
+			<name>The Man with Two Guns is God</name>
+			<source id="az">Adventures in ZEITGEIST</source>
+		</feat>
+		<feat id="thesbian">
+			<name>Thesbian</name>
+			<source id="ag">Adventurer's Guide</source>
+		</feat>
+		<feat id="tremendouslyHulking">
+			<name>Tremendously Hulking</name>
+			<source id="gz5">Gate Pass Gazette #5</source>
+		</feat>
+		<feat id="trueRevenant">
+			<name>True Revenant</name>
+			<source id="ag">Adventurer's Guide</source>
+		</feat>
+		<feat id="unfinishedBusiness">
+			<name>Unfinished Business</name>
+			<source id="az">Adventures in ZEITGEIST</source>
+		</feat>
+		<feat id="untamed">
+			<name>Untamed</name>
+			<source id="ag">Adventurer's Guide</source>
+		</feat>
+		<feat id="urbane">
+			<name>Urbane</name>
+			<source id="gz10">Gate Pass Gazette Issue #10</source>
+		</feat>
+		<feat id="vampireLord">
+			<name>Vampire Lord</name>
+			<source id="ag">Adventurer's Guide</source>
+		</feat>
+		<feat id="vampireSpawn">
+			<name>Vampire Spawn</name>
+			<source id="ag">Adventurer's Guide</source>
+		</feat>
+		<feat id="vendetta">
+			<name>Vendetta</name>
+			<source id="ag">Adventurer's Guide</source>
+		</feat>
+		<feat id="vigilant">
+			<name>Vigilant</name>
+			<source id="ag">Adventurer's Guide</source>
+		</feat>
+		<feat id="vigilante">
+			<name>Vigilante</name>
+			<source id="ag">Adventurer's Guide</source>
+		</feat>
+		<feat id="weaponsSpecialist">
+			<name>Weapons Specialist</name>
+			<source id="ag">Adventurer's Guide</source>
+		</feat>
+		<feat id="werebearEmerged">
+			<name>Werebear Emerged</name>
+			<source id="gz0">Gate Pass Gazette Issue #0</source>
+		</feat>
+		<feat id="wellheeled">
+			<name>Well-Heeled</name>
+			<source id="ag">Adventurer's Guide</source>
+		</feat>
+		<feat id="whirlingIncantor">
+			<name>Whirling Incantor</name>
+			<source id="ag">Adventurer's Guide</source>
+		</feat>
+		<feat id="wildRioter">
+			<name>Wild Rioter</name>
+			<source id="ag">Adventurer's Guide</source>
+		</feat>
+		<feat id="woodcraftTraining">
+			<name>Woodcraft Training</name>
+			<source id="ag">Adventurer's Guide</source>
+		</feat>
+	</feats>
+	
+
+
+</charOptions>

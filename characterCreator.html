@@ -1,0 +1,266 @@
+<html>
+<head>
+	<title>Level Up - Advanced 5th Edition Character Creator</title>
+	<link rel="stylesheet" href="characterCreator.css">
+	<script src="characterCreator.js"></script>
+</head>
+<body>
+<div id="page1" class="pageArea">
+	<div id="nameArea">
+		<div id="logoArea"></div>
+		<div id="titleArea">Level Up</div>
+		<div id="titleAreaSmall">Advanced 5th Edition</div>
+		<div id="nameBoxArea">
+			<input type="edit" id="editCharacterName" class="width90">
+		</div>
+		<div id="nameLabel">Character Name</div>
+	</div>
+	
+	<div id="attributeArea">
+		<div id="strength" class="attribute">Strength</div>
+		<div id="dexterity" class="attribute">Dexterity</div>
+		<div id="constitution" class="attribute">Constitution</div>
+		<div id="intelligence" class="attribute">Intelligence</div>
+		<div id="wisdom" class="attribute">Wisdom</div>
+		<div id="charisma" class="attribute">Charisma</div>
+	</div>
+	
+	<div id="charClassArea" class="envelope">
+		<div id="charClassContainer">
+			<div id="charClassLabel">Class, Level, & Archetype</div>
+			<div id="experienceLabel">Experience Points</div>
+			<div id="charClassBox">
+				<!--<input type="edit" id="editArchetype" class="charClassInput">-->
+				<select id="selectArchetype"><option value="choose">Choose a class</option></select>
+				<select id="selectCharClassName"><option value="default">Default</option></select>
+				<input type="edit" id="editLevel" class="charClassInput">
+			</div>
+			<div id="experienceBox">
+				<input type="edit" id="experience">
+			</div>
+			<div id="heritageLabel">Heritage</div>
+			<div id="cultureLabel">Culture</div>
+			<div id="backgroundLabel">Background</div>
+			<div id="heritageBox">
+				<select id="selectHeritage"><option value="default">Default</option></select>
+			</div>
+			<div id="cultureBox">
+				<select id="selectCulture"><option value="default">Default</option></select>
+			</div>
+			<div id="backgroundBox">
+				<select id="selectBackground"><option value="default">Default</option></select>
+			</div>
+		</div>
+	</div>
+	
+	<div id="destinyArea" class="envelope">
+		<div id="destinyName" class="destiny">Destiny</div>
+		<div id="destinySource" class="destiny">Source of Inspiration</div>
+		<div id="destinyFeature" class="destiny">Inspiration Feature</div>
+		<div id="destinyFulfillment" class="destiny">Fulfillment Feature</div>
+	</div>
+	
+	<div id="skillArea" class="envelopeOuter">
+		<div id="skillEnvelope" class="envelopeInner">
+			<div id="skillPassiveArea">
+				<div id="passiveStealth">Passive Stealth</div>
+				<div id="passiveInsight">Passive Insight</div>
+				<div id="passivePerception">Passive Perception</div>
+				<div id="passiveOther">Passive </div>
+			</div>
+			<div id="skillListArea">
+				<div id="skillColumn1" class="skillColumn">
+					<div id="skillAcrobatics">Acrobatics</div>
+					<div id="skillAnimalHandling">Animal Handling</div>
+					<div id="skillArcana">Arcana</div>
+					<div id="skillAthletics">Athletics</div>
+					<div id="skillCulture">Culture</div>
+					<div id="skillDeception">Deception</div>
+					<div id="skillEngineering">Engineering</div>
+					<div id="skillHistory">History</div>
+					<div id="skillInsight">Insight</div>
+					<div id="skillIntimidation">Intimidation</div>
+					<div id="skillInvestigation">Investigation</div>
+				</div>
+				<div id="skillColumn2" class="skillColumn">
+					<div id="skillMedicine">Medicine</div>
+					<div id="skillNature">Nature</div>
+					<div id="skillPerception">Perception</div>
+					<div id="skillPerformance">Performance</div>
+					<div id="skillPersuasion">Persuasion</div>
+					<div id="skillReligion">Religion</div>
+					<div id="skillSleightOfHand">Sleight of Hand</div>
+					<div id="skillStealth">Stealth</div>
+					<div id="skillSurvival">Survival</div>
+					<div id="skillCustom1">__</div>
+					<div id="skillCustom2">__</div>
+				</div>
+			</div>
+		</div>
+		<div id="toolProficiencyEnvelope" class="envelopeInner">
+			<div id="toolProficiencyArea">
+				Tool Proficiencies
+				<div id="toolProficiency">Prof 1<br>Prof 2<br>Prof 3<br>Prof 4</div>
+			</div>
+		</div>
+	</div>
+	
+	<div id="attackArea" class="envelope">
+		Attacks and Spellcasting
+		<div id="attackLabelArea">
+			<div id="attackNameLabel" class="attackLabel">Name</div>
+			<div id="attackAttackBonusLabel" class="attackLabel">Atk Bonus</div>
+			<div id="attackDamageLabel" class="attackLabel">Damage/Type</div>
+			<div id="attackRangeLabel" class="attackLabel">Range</div>
+			<div id="attackNotesLabel" class="attackLabel">Notes</div>
+		</div>
+		<div id="attack1">
+			<div id="attack1Name" class="attackName"></div>
+			<div id="attack1AttackBonus" class="attackBonus"></div>
+			<div id="attack1Damage" class="attackDamage"></div>
+			<div id="attack1Range" class="attackRange"></div>
+			<div id="attack1Notes" class="attackNotes"></div>
+		</div>
+		<div id="attack2">
+			<div id="attack2Name" class="attackName"></div>
+			<div id="attack2AttackBonus" class="attackBonus"></div>
+			<div id="attack2Damage" class="attackDamage"></div>
+			<div id="attack2Range" class="attackRange"></div>
+			<div id="attack2Notes" class="attackNotes"></div>
+		</div>
+		<div id="attack3">
+			<div id="attack3Name" class="attackName"></div>
+			<div id="attack3AttackBonus" class="attackBonus"></div>
+			<div id="attack3Damage" class="attackDamage"></div>
+			<div id="attack3Range" class="attackRange"></div>
+			<div id="attack3Notes" class="attackNotes"></div>
+		</div>
+		<div id="attack4">
+			<div id="attack4Name" class="attackName"></div>
+			<div id="attack4AttackBonus" class="attackBonus"></div>
+			<div id="attack4Damage" class="attackDamage"></div>
+			<div id="attack4Range" class="attackRange"></div>
+			<div id="attack4Notes" class="attackNotes"></div>
+		</div>
+		<div id="attack5">
+			<div id="attack5Name" class="attackName"></div>
+			<div id="attack5AttackBonus" class="attackBonus"></div>
+			<div id="attack5Damage" class="attackDamage"></div>
+			<div id="attack5Range" class="attackRange"></div>
+			<div id="attack5Notes" class="attackNotes"></div>
+		</div>
+		<div id="attack6">
+			<div id="attack6Name" class="attackName"></div>
+			<div id="attack6AttackBonus" class="attackBonus"></div>
+			<div id="attack6Damage" class="attackDamage"></div>
+			<div id="attack6Range" class="attackRange"></div>
+			<div id="attack6Notes" class="attackNotes"></div>
+		</div>
+		<div id="attack7">
+			<div id="attack7Name" class="attackName"></div>
+			<div id="attack7AttackBonus" class="attackBonus"></div>
+			<div id="attack7Damage" class="attackDamage"></div>
+			<div id="attack7Range" class="attackRange"></div>
+			<div id="attack7Notes" class="attackNotes"></div>
+		</div>
+	</div>
+</div>
+	
+<div class="pageArea">
+	<div id="proficiencyArea">
+		<div id="proficiencyList"></div>
+		<div id="languageList"></div>
+	</div>
+	
+	<div id="featureArea">
+		Features & Traits
+		<div id="featureList"></div>
+	</div>
+	
+	<div id="maneuverArea">
+		Combat Maneuvers
+	</div>
+	
+	<div id="knackArea">
+		Exploration Knacks
+	</div>
+</div>
+	
+<div class="pageArea">
+	<div id="bioBasicArea">
+		<div id="bioAge">Age</div>
+		<div id="bioHeight">Height</div>
+		<div id="bioWeight">Weight</div>
+		<div id="bioEyes">Eyes</div>
+		<div id="bioSkin">Skin</div>
+		<div id="bioHair">Hair</div>
+	</div>
+	
+	<div id="appearanceArea">
+		Character Appearance
+	</div>
+	
+	<div id="followersArea">
+		Followers & Strongholds
+	</div>
+	
+	<div id="backstoryArea">
+		Character Backstory
+	</div>
+	
+	<div id="alliesArea">
+		Allies & Organizations
+	</div>
+	
+	<div id="equipmentArea">
+		<div id="equipmentMainArea">
+			Equipment
+		</div>
+		<div id="equipmentBulkyArea">
+			Bulky Items
+		</div>
+	</div>
+	
+	<div id="treasureArea">
+		Treasure
+	</div>
+</div>
+
+<div class="pageArea">
+	<div id="spellcastingArea">
+		<div id="spellcastingTraits">
+			<div id="spellcastingDC">Spell Save DC</div>
+			<div id="spellcastingAttackBonus">Spell Attack Bonus</div>
+			<div id="spellcastingSpellPoints">Spell Points</div>
+		</div>
+		<div id="spellArea">
+			<div id="spellColumn1" class="spellColumn">
+				<div id="spellCantripArea" class="spellLevel">Cantrips</div>
+				<div id="spellLevel1Area" class="spellLevel"></div>
+				<div id="spellLevel2Area" class="spellLevel"></div>
+			</div>
+			<div id="spellColumn2" class="spellColumn">
+				<div id="spellLevel3Area" class="spellLevel"></div>
+				<div id="spellLevel4Area" class="spellLevel"></div>
+				<div id="spellLevel5Area" class="spellLevel"></div>
+			</div>
+			<div id="spellColumn3" class="spellColumn">
+				<div id="spellLevel6Area" class="spellLevel"></div>
+				<div id="spellLevel7Area" class="spellLevel"></div>
+				<div id="spellLevel8Area" class="spellLevel"></div>
+				<div id="spellLevel9Area" class="spellLevel"></div>
+			</div>
+		</div>
+	</div>
+</div>
+
+    <input type="button" id="btnGenerate" value="Populate DropDownList" onclick="PopulateDropDownList()" />
+    <hr />
+    <select id="ddlCustomers">
+    </select>
+    <script type="text/javascript">
+
+    </script>
+
+</body>
+</html>

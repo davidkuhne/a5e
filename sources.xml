@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sources>
+	<source id="ag">
+		<name>Adventurer's Guide</name>
+		<type>Sourcebook</type>
+		<short>ag</short>
+	</source>
+	<source id="tt">
+		<name>Trials & Treasures</name>
+		<type>Sourcebook</type>
+		<short>tt</short>
+	</source>
+	<source id="mm">
+		<name>Monstrous Menagerie</name>
+		<type>Sourcebook</type>
+		<short>mm</short>
+	</source>
+	<source id="az">
+		<name>Adventurers in ZEITGEIST</name>
+		<type>Setting</type>
+		<short>az</short>
+	</source>
+	<source id="mf">
+		<name>Mythological Figures & Maleficent Monsters</name>
+		<type>Sourcebook</type>
+		<short>mf</short>
+	</source>
+	<source id="ddg">
+		<name>Dungeon Delver's Guide</name>
+		<type>Sourcebook</type>
+		<short>ddg</short>
+	</source>
+	<source id="moh">
+		<name>Memories of Holdenshire</name>
+		<type>Adventure</type>
+		<level>
+			<minlevel>1</minlevel>
+			<maxlevel>3</maxlevel>
+		</level>
+		<short>moh</short>
+	</source>
+	<source id="mbr">
+		<name>Mama Bear's Revenge</name>
+		<type>Adventure</type>
+		<level>
+			<minlevel>1</minlevel>
+		</level>
+		<short>mbr</short>
+	</source>
+	<source id="boe">
+		<name>The Business of Emotion</name>
+		<type>Adventure</type>
+		<level>
+			<minlevel>2</minlevel>
+			<maxlevel>3</maxlevel>
+		</level>
+		<short>boe</short>
+	</source>
+	<source id="hcr">
+		<name>The Haunting of Calrow Ruins</name>
+		<type>Adventure</type>
+		<level>
+			<minlevel>3</minlevel>
+		</level>
+		<short>hcr</short>
+	</source>
+	<source id="pfg">
+		<name>Presents for Goblins</name>
+		<type>Adventure</type>
+		<level>
+			<minlevel>3</minlevel>
+			<maxlevel>5</maxlevel>
+		</level>
+		<short>pfg</short>
+	</source>
+	<source id="gz0">
+		<name>Gate Pass Gazette Issue #0</name>
+		<type>Magazine</type>
+		<short>gz0</short>
+	</source>
+	<source id="gz1">
+		<name>Gate Pass Gazette Issue #1</name>
+		<type>Magazine</type>
+		<short>gz1</short>
+	</source>
+	<source id="gz2">
+		<name>Gate Pass Gazette Issue #2</name>
+		<type>Magazine</type>
+		<short>gz2</short>
+	</source>
+	<source id="gz3">
+		<name>Gate Pass Gazette Issue #3</name>
+		<type>Magazine</type>
+		<short>gz3</short>
+	</source>
+	<source id="gz4">
+		<name>Gate Pass Gazette Issue #4</name>
+		<type>Magazine</type>
+		<short>gz4</short>
+	</source>
+	<source id="gz5">
+		<name>Gate Pass Gazette Issue #5</name>
+		<type>Magazine</type>
+		<short>gz5</short>
+	</source>
+	<source id="gz6">
+		<name>Gate Pass Gazette Issue #6</name>
+		<type>Magazine</type>
+		<short>gz6</short>
+	</source>
+	<source id="gz7">
+		<name>Gate Pass Gazette Issue #7</name>
+		<type>Magazine</type>
+		<short>gz7</short>
+	</source>
+	<source id="gz8">
+		<name>Gate Pass Gazette Issue #8</name>
+		<type>Magazine</type>
+		<short>gz8</short>
+	</source>
+	<source id="gz9">
+		<name>Gate Pass Gazette Issue #9</name>
+		<type>Magazine</type>
+		<short>gz9</short>
+	</source>
+	<source id="gz10">
+		<name>Gate Pass Gazette Issue #10</name>
+		<type>Magazine</type>
+		<short>gz10</short>
+	</source>
+	<source id="gz11">
+		<name>Gate Pass Gazette Issue #11</name>
+		<type>Magazine</type>
+		<short>gz11</short>
+	</source>
+	<source id="gz12">
+		<name>Gate Pass Gazette Issue #12</name>
+		<type>Magazine</type>
+		<short>gz12</short>
+	</source>
+	<source id="gz13">
+		<name>Gate Pass Gazette Issue #13</name>
+		<type>Magazine</type>
+		<short>gz13</short>
+	</source>
+	<source id="gz14">
+		<name>Gate Pass Gazette Issue #14</name>
+		<type>Magazine</type>
+		<short>gz14</short>
+	</source>
+	<source id="gz15">
+		<name>Gate Pass Gazette Issue #15</name>
+		<type>Magazine</type>
+		<short>gz15</short>
+	</source>
+	<source id="gz16">
+		<name>Gate Pass Gazette Issue #16</name>
+		<type>Magazine</type>
+		<short>gz16</short>
+	</source>
+	<source id="gz17">
+		<name>Gate Pass Gazette Issue #17</name>
+		<type>Magazine</type>
+		<short>gz17</short>
+	</source>
+	<source id="gz18">
+		<name>Gate Pass Gazette Issue #18</name>
+		<type>Magazine</type>
+		<short>gz18</short>
+	</source>
+	<source id="gz19">
+		<name>Gate Pass Gazette Issue #19</name>
+		<type>Magazine</type>
+		<short>gz19</short>
+	</source>
+</sources>

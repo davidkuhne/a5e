@@ -1,0 +1,1724 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<combatManeuvers>
+	<traditions>
+		<tradition>
+			<name>Adamant Mountain</name>
+			<type>Standard</type>
+			<code>am</code>
+		</tradition>
+		<tradition>
+			<name>Arcane Knight</name>
+			<type>Advanced</type>
+			<source>gz9</source>
+			<code>ak</code>
+		</tradition>
+		<tradition>
+			<name>Beast Unity</name>
+			<type>Advanced</type>
+			<source>gz6</source>
+			<code>bu</code>
+		</tradition>
+		<tradition>
+			<name>Biting Zephyr</name>
+			<type>Standard</type>
+			<code>bz</code>
+		</tradition>
+		<tradition>
+			<name>Mirror's Glint</name>
+			<type>Standard</type>
+			<code>mg</code>
+		</tradition>
+		<tradition>
+			<name>Mist and Shade</name>
+			<type>Standard</type>
+			<code>ms</code>
+		</tradition>
+		<tradition>
+			<name>Rapid Current</name>
+			<type>Standard</type>
+			<code>rc</code>
+		</tradition>
+		<tradition>
+			<name>Razor's Edge</name>
+			<type>Standard</type>
+			<code>re</code>
+		</tradition>
+		<tradition>
+			<name>Sanguine Knot</name>
+			<type>Standard</type>
+			<code>sk</code>
+		</tradition>
+		<tradition>
+			<name>Spirited Steed</name>
+			<type>Standard</type>
+			<code>ss</code>
+		</tradition>
+		<tradition>
+			<name>Tempored Iron</name>
+			<type>Standard</type>
+			<code>ti</code>
+		</tradition>
+		<tradition>
+			<name>Tooth and Claw</name>
+			<type>Standard</type>
+			<code>tc</code>
+		</tradition>
+		<tradition>
+			<name>Unending Wheel</name>
+			<type>Standard</type>
+			<code>uw</code>
+		</tradition>
+	</traditions>
+	<maneuvers>
+		<maneuver>
+			<name>Agile Feint</name>
+			<tradition>Mirror's Glint</tradition>
+			<degree>2</degree>
+			<exertioncost>2</exertioncost>
+			<action>Bonus</action>
+			<type>Maneuver</type>
+			<short>Gain advantage against a nearby creature.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>Anticipate Spell</name>
+			<tradition>Mist and Shade</tradition>
+			<degree>1</degree>
+			<exertioncost>1</exertioncost>
+			<action>Bonus</action>
+			<type>Maneuver</type>
+			<short>Attack an adjacent creature which tries to cast a spell.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>Any Weapon Stance</name>
+			<tradition>Unending Wheel</tradition>
+			<degree>4</degree>
+			<exertioncost>1</exertioncost>
+			<action>Bonus</action>
+			<type>Stance</type>
+			<short>Focusing on your in depth training with certain weaponry gives you proficiency with all weapons.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>Armor Lock</name>
+			<tradition>Mist and Shade</tradition>
+			<degree>5</degree>
+			<exertioncost>3</exertioncost>
+			<action>Action</action>
+			<type>Maneuver</type>
+			<short>Use an enemy’s armor against them, paralyzing them.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>Assisted Roll</name>
+			<tradition>Mirror's Glint</tradition>
+			<degree>2</degree>
+			<exertioncost>1</exertioncost>
+			<action>Reaction</action>
+			<type>Maneuver</type>
+			<short>Roll away from an opponent who misses you.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>Back To Back</name>
+			<tradition>Sanguine Knot</tradition>
+			<degree>2</degree>
+			<exertioncost>1</exertioncost>
+			<action>Action</action>
+			<type>Maneuver</type>
+			<short>Both you and an adjacent ally gain +2 AC.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>Battering Strike</name>
+			<tradition>Adamant Mountain</tradition>
+			<degree>3</degree>
+			<exertioncost>1</exertioncost>
+			<action>Reaction</action>
+			<type>Maneuver</type>
+			<short>Knock your opponent’s weapon flying.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>Blinding Blow Stance</name>
+			<tradition>Mist and Shade</tradition>
+			<degree>4</degree>
+			<exertioncost>2</exertioncost>
+			<action>Bonus</action>
+			<type>Stance</type>
+			<short>Attack in a shifting flow of deft strikes that make it easy to blind enemies.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>Blinding Strikes</name>
+			<tradition>Mirror's Glint</tradition>
+			<degree>5</degree>
+			<exertioncost>3</exertioncost>
+			<action>Action</action>
+			<type>Maneuver</type>
+			<short>Deprive your opponents of any ability to see, whether with their eyes or otherwise.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>Blind Instinct</name>
+			<tradition>Tooth and Claw</tradition>
+			<degree>4</degree>
+			<exertioncost>3</exertioncost>
+			<action>Bonus</action>
+			<type>Maneuver</type>
+			<short>Briefly see without the use of sight and use a reaction to chase down a fleeing enemy.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>Blindshot</name>
+			<tradition>Biting Zephyr</tradition>
+			<degree>3</degree>
+			<exertioncost>1</exertioncost>
+			<action>Bonus</action>
+			<type>Maneuver</type>
+			<short>Attack hidden targets without disadvantage.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>Bloody Roar</name>
+			<tradition>Tooth and Claw</tradition>
+			<degree>4</degree>
+			<exertioncost>3</exertioncost>
+			<action>Action</action>
+			<type>Maneuver</type>
+			<short>Unleash a powerful yell that injures and frightens your foes.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>Bodyguard</name>
+			<tradition>Sanguine Knot</tradition>
+			<degree>4</degree>
+			<exertioncost>3</exertioncost>
+			<action>Reaction</action>
+			<type>Maneuver</type>
+			<short>Take a hit for an ally and reduce the damage it inflicts on you.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>Bounding Strike</name>
+			<tradition>Tooth and Claw</tradition>
+			<degree>1</degree>
+			<exertioncost>1</exertioncost>
+			<action>Action</action>
+			<type>Maneuver</type>
+			<short>Jump at an enemy and use your ability check as your attack roll.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>Branding Steel</name>
+			<tradition>Tempered Iron</tradition>
+			<degree>5</degree>
+			<exertioncost>3</exertioncost>
+			<action>Bonus</action>
+			<type>Maneuver</type>
+			<short>Brand a foe to make it reticent to approach or attack you.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>Break Spell</name>
+			<tradition>Tempered Iron</tradition>
+			<degree>3</degree>
+			<exertioncost>2</exertioncost>
+			<action>Reaction</action>
+			<type>Maneuver</type>
+			<short>Make a melee attack against an enemy casting a spell.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>Brotherhood Stance</name>
+			<tradition>Sanguine Knot</tradition>
+			<degree>4</degree>
+			<exertioncost>3</exertioncost>
+			<action>Bonus</action>
+			<type>Stance</type>
+			<short>Take the Help action whenever you hit with a melee weapon attack.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>Burning Embers of Faith</name>
+			<tradition>Tempered Iron</tradition>
+			<degree>5</degree>
+			<exertioncost>3</exertioncost>
+			<action>Reaction</action>
+			<type>Maneuver</type>
+			<short>Use a reaction when you would be reduced to 0 hit points to heal yourself.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>Catch Your Breath</name>
+			<tradition>Adamant Mountain</tradition>
+			<degree>1</degree>
+			<exertioncost>2</exertioncost>
+			<action>Bonus</action>
+			<type>Maneuver</type>
+			<short>Pause to regain hit points.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>Cavalier Stance</name>
+			<tradition>Spirited Steed</tradition>
+			<degree>1</degree>
+			<exertioncost>1</exertioncost>
+			<action>Bonus</action>
+			<type>Stance</type>
+			<short>Increase your mount’s AC.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>Charge</name>
+			<tradition>Rapid Current</tradition>
+			<degree>1</degree>
+			<exertioncost>1</exertioncost>
+			<action>Action</action>
+			<type>Maneuver</type>
+			<short>Move and make a melee attack.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>Cleaving Swing</name>
+			<tradition>Adamant Mountain</tradition>
+			<degree>1</degree>
+			<exertioncost>2</exertioncost>
+			<action>Reaction</action>
+			<type>Maneuver</type>
+			<short>Make an additional attack with a heavy weapon.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>Countershot</name>
+			<tradition>Biting Zephyr</tradition>
+			<degree>2</degree>
+			<exertioncost>1</exertioncost>
+			<action>Reaction</action>
+			<type>Maneuver</type>
+			<short>Shoot a missile out of the air.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>Covering Fire</name>
+			<tradition>Biting Zephyr</tradition>
+			<degree>1</degree>
+			<exertioncost>1</exertioncost>
+			<action>Action</action>
+			<type>Maneuver</type>
+			<short>Protect an ally from opportunity attack.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>Crushing Blow</name>
+			<tradition>Adamant Mountain</tradition>
+			<degree>3</degree>
+			<exertioncost>2</exertioncost>
+			<action>Action</action>
+			<type>Maneuver</type>
+			<short>Paralyze your opponent with a heavy weapon.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>Dangerous Signature</name>
+			<tradition>Unending Wheel</tradition>
+			<degree>1</degree>
+			<exertioncost>1</exertioncost>
+			<action>Reaction</action>
+			<type>Maneuver</type>
+			<short>Cut a symbol into your target in order to frighten it.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>Dangerous Strikes</name>
+			<tradition>Razor's Edge</tradition>
+			<degree>1</degree>
+			<exertioncost>1</exertioncost>
+			<action>Action</action>
+			<type>Maneuver</type>
+			<short>Score critical hits on a roll of 19–20 for one round.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>Dashing Razor</name>
+			<tradition>Razor's Edge</tradition>
+			<degree>4</degree>
+			<exertioncost>1</exertioncost>
+			<action>Action</action>
+			<type>Maneuver</type>
+			<short>Charge forward to strike an enemy and feed off of the adrenaline from hitting, increasing your Speed.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>Death Blow</name>
+			<tradition>Razor's Edge</tradition>
+			<degree>5</degree>
+			<exertioncost>3</exertioncost>
+			<action>Action</action>
+			<type>Maneuver</type>
+			<short>Make an attack that critically hits and possibly even incapacitates your opponent.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>Deceptive Stance</name>
+			<tradition>Mist and Shade</tradition>
+			<degree>1</degree>
+			<exertioncost>1</exertioncost>
+			<action>Bonus</action>
+			<type>Stance</type>
+			<short>Gain an expertise die on Deception and Sleight of Hand checks in combat.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>Deflect Strike</name>
+			<tradition>Unending Wheel</tradition>
+			<degree>2</degree>
+			<exertioncost>1</exertioncost>
+			<action>Reaction</action>
+			<type>Maneuver</type>
+			<short>Reduce damage from an attack.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>Defy Magic</name>
+			<tradition>Tempered Iron</tradition>
+			<degree>3</degree>
+			<exertioncost>2</exertioncost>
+			<action>Reaction</action>
+			<type>Maneuver</type>
+			<short>Make a spellcaster miss you with its spell attack.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>Devoted Assault</name>
+			<tradition>Tempered Iron</tradition>
+			<degree>4</degree>
+			<exertioncost>3</exertioncost>
+			<action>Bonus</action>
+			<type>Maneuver</type>
+			<short>Ignoring other enemies allows you to strike one foe more accurately.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>Disarming Assault</name>
+			<tradition>Unending Wheel</tradition>
+			<degree>3</degree>
+			<exertioncost>1</exertioncost>
+			<action>Action</action>
+			<type>Maneuver</type>
+			<short>Knock your enemy’s weapon or shield from their grasp.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>Disarming Counter</name>
+			<tradition>Rapid Current</tradition>
+			<degree>3</degree>
+			<exertioncost>2</exertioncost>
+			<action>Action</action>
+			<type>Reaction</type>
+			<short>Your enemy drops their weapon when they miss you.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>Discerning Strike</name>
+			<tradition>Mirror's Glint</tradition>
+			<degree>4</degree>
+			<exertioncost>2</exertioncost>
+			<action>Action</action>
+			<type>Maneuver</type>
+			<short>Learn the health and defenses of opponents you damage.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>Dispelling Assault</name>
+			<tradition>Tempered Iron</tradition>
+			<degree>3</degree>
+			<exertioncost>2</exertioncost>
+			<action>Action</action>
+			<type>Maneuver</type>
+			<short>Your attacks are critical hits on rolls of 19–20 and they end spells.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>Disrupting Charge</name>
+			<tradition>Tempered Iron</tradition>
+			<degree>4</degree>
+			<exertioncost>2</exertioncost>
+			<action>Reaction</action>
+			<type>Maneuver</type>
+			<short>Dart up to an opponent casting a spell and strike them, possibly disrupting the magic.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>Dive For Cover</name>
+			<tradition>Biting Zephyr</tradition>
+			<degree>4</degree>
+			<exertioncost>2</exertioncost>
+			<action>Reaction</action>
+			<type>Maneuver</type>
+			<short>Use your reaction to take cover behind a creature or object when a ranged attack misses you.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>Doubleshot</name>
+			<tradition>Biting Zephyr</tradition>
+			<degree>1</degree>
+			<exertioncost>1</exertioncost>
+			<action>Action</action>
+			<type>Maneuver</type>
+			<short>Fire two missiles and do extra damage.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>Double Tackle</name>
+			<tradition>Sanguine Knot</tradition>
+			<degree>2</degree>
+			<exertioncost>3</exertioncost>
+			<action>Action</action>
+			<type>Maneuver</type>
+			<short>You and an ally knock a creature prone.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>Doubleteam</name>
+			<tradition>Sanguine Knot</tradition>
+			<degree>1</degree>
+			<exertioncost>1</exertioncost>
+			<action>Bonus</action>
+			<type>Maneuver</type>
+			<short>A nearby ally can push a creature as a bonus action.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>Doubletime</name>
+			<tradition>Sanguine Knot</tradition>
+			<degree>4</degree>
+			<exertioncost>2</exertioncost>
+			<action>Action</action>
+			<type>Maneuver</type>
+			<short>You and up to 3 allies can disengage and move their Speed.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>Douse</name>
+			<tradition>Mist and Shade</tradition>
+			<degree>3</degree>
+			<exertioncost>1</exertioncost>
+			<action>Bonus</action>
+			<type>Maneuver</type>
+			<short>Dash a container of liquid over a nearby foe.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>Drive Back</name>
+			<tradition>Razor's Edge</tradition>
+			<degree>3</degree>
+			<exertioncost>2</exertioncost>
+			<action>Action</action>
+			<type>Maneuver</type>
+			<short>Push your foe 10 feet on a hit.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>Dual Grapple</name>
+			<tradition>Sanguine Knot</tradition>
+			<degree>2</degree>
+			<exertioncost>2</exertioncost>
+			<action>Bonus</action>
+			<type>Maneuver</type>
+			<short>You and an ally restrain a creature.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>Expert Sidestep</name>
+			<tradition>Unending Wheel</tradition>
+			<degree>3</degree>
+			<exertioncost>2</exertioncost>
+			<action>Reaction</action>
+			<type>Maneuver</type>
+			<short>Gain an AC bonus when you are hit.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>Expert Tumble</name>
+			<tradition>Tooth and Claw</tradition>
+			<degree>2</degree>
+			<exertioncost>2</exertioncost>
+			<action>Bonus</action>
+			<type>Maneuver</type>
+			<short>Increase your AC as long as you move at full Speed.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>Exploit Footing</name>
+			<tradition>Razor's Edge</tradition>
+			<degree>1</degree>
+			<exertioncost>2</exertioncost>
+			<action>Reaction</action>
+			<type>Maneuver</type>
+			<short>Trip a creature which misses you.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>Eye Slash</name>
+			<tradition>Rapid Current</tradition>
+			<degree>1</degree>
+			<exertioncost>2</exertioncost>
+			<action>Action</action>
+			<type>Maneuver</type>
+			<short>Blind your enemy with a well-aimed strike.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>Faith Within</name>
+			<tradition>Tempered Iron</tradition>
+			<degree>2</degree>
+			<exertioncost>1</exertioncost>
+			<action>Reaction</action>
+			<type>Maneuver</type>
+			<short>Reroll a saving throw when charmed, frightened, poisoned, or stunned.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>Farshot Stance</name>
+			<tradition>Biting Zephyr</tradition>
+			<degree>1</degree>
+			<exertioncost>1</exertioncost>
+			<action>Bonus</action>
+			<type>Maneuver</type>
+			<short>Increase the range of your missiles.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>Feinting Strike</name>
+			<tradition>Mist and Shade</tradition>
+			<degree>3</degree>
+			<exertioncost>2</exertioncost>
+			<action>Action</action>
+			<type>Maneuver</type>
+			<short>Use a Sleight of Hand check as your attack bonus.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>First Blood</name>
+			<tradition>Rapid Current</tradition>
+			<degree>4</degree>
+			<exertioncost>3</exertioncost>
+			<action>Reaction</action>
+			<type>Maneuver</type>
+			<short>React to danger with unnatural swiftness.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>Flowing Form</name>
+			<tradition>Mirror's Glint</tradition>
+			<degree>3</degree>
+			<exertioncost>2</exertioncost>
+			<action>Action</action>
+			<type>Maneuver</type>
+			<short>Make melee attacks against all enemies who miss you.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>Flowing Steps Stance</name>
+			<tradition>Rapid Current</tradition>
+			<degree>4</degree>
+			<exertioncost>3</exertioncost>
+			<action>Bonus</action>
+			<type>Stance</type>
+			<short>Ignore difficult terrain and be better able to resist being immobilized.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>Follow-Up Topple</name>
+			<tradition>Sanguine Knot</tradition>
+			<degree>3</degree>
+			<exertioncost>2</exertioncost>
+			<action>Reaction</action>
+			<type>Maneuver</type>
+			<short>Attack a creature an ally has attacked to knock it prone.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>Force Hesitation</name>
+			<tradition>Mist and Shade</tradition>
+			<degree>2</degree>
+			<exertioncost>2</exertioncost>
+			<action>Action</action>
+			<type>Maneuver</type>
+			<short>Trick a creature into not attacking anyone but you.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>Furious Barrage</name>
+			<tradition>Tooth and Claw</tradition>
+			<degree>5</degree>
+			<exertioncost>3</exertioncost>
+			<action>Action</action>
+			<type>Maneuver</type>
+			<short>Make a frenetic series of attacks until one of your strikes misses.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>Gaze Of Conviction</name>
+			<tradition>Tempered Iron</tradition>
+			<degree>2</degree>
+			<exertioncost>2</exertioncost>
+			<action>Bonus</action>
+			<type>Maneuver</type>
+			<short>Force a creature to attack you.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>Gut Strike</name>
+			<tradition>Tooth and Claw</tradition>
+			<degree>3</degree>
+			<exertioncost>3</exertioncost>
+			<action>Reaction</action>
+			<type>Maneuver</type>
+			<short>Strike your enemy and cause fatigue.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>Hear The Wind</name>
+			<tradition>Biting Zephyr</tradition>
+			<degree>5</degree>
+			<exertioncost>3</exertioncost>
+			<action>Bonus</action>
+			<type>Maneuver</type>
+			<short>Concentrate on what you can hear to see what cannot be seen and deftly evade attacks.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>Heart Of The Sword</name>
+			<tradition>Unending Wheel</tradition>
+			<degree>5</degree>
+			<exertioncost>3</exertioncost>
+			<action>Bonus</action>
+			<type>Maneuver</type>
+			<short>Focusing on your training with a weapon, you make your attacks more devastating and ignore an enemy’s defenses.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>Heartseeker</name>
+			<tradition>Biting Zephyr</tradition>
+			<degree>4</degree>
+			<exertioncost>2</exertioncost>
+			<action>Action</action>
+			<type>Maneuver</type>
+			<short>Aim for and exploit a foe’s weak spot with a dangerous shot.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>Heavy Stance</name>
+			<tradition>Adamant Mountain</tradition>
+			<degree>1</degree>
+			<exertioncost>1</exertioncost>
+			<action>Bonus</action>
+			<type>Stance</type>
+			<short>Gain an expertise die on Athletics checks and saving throws against combat maneuvers, and reduce difficult terrain.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>Heightened Concentration</name>
+			<tradition>Razor's Edge</tradition>
+			<degree>5</degree>
+			<exertioncost>3</exertioncost>
+			<action>Reaction</action>
+			<type>Maneuver</type>
+			<short>Use a reaction to retain concentration when you would otherwise lose it.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>Heightened Reflexes</name>
+			<tradition>Mirror's Glint</tradition>
+			<degree>3</degree>
+			<exertioncost>1</exertioncost>
+			<action>Bonus</action>
+			<type>Maneuver</type>
+			<short>Gain additional reactions for this round.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>Horizon Shot</name>
+			<tradition>Biting Zephyr</tradition>
+			<degree>5</degree>
+			<exertioncost>3</exertioncost>
+			<action>Bonus</action>
+			<type>Maneuver</type>
+			<short>Use a ranged weapon to attack to shoot a creature from as far away as you can see.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>Hurl Ally</name>
+			<tradition>Sanguine Knot</tradition>
+			<degree>3</degree>
+			<exertioncost>3</exertioncost>
+			<action>Bonus</action>
+			<type>Maneuver</type>
+			<short>Throw a smaller ally at a creature within 20 feet.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>Imposing Glare</name>
+			<tradition>Tempered Iron</tradition>
+			<degree>1</degree>
+			<exertioncost>1</exertioncost>
+			<action>Bonus</action>
+			<type>Maneuver</type>
+			<short>Frighten a nearby foe.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>Instant Strike</name>
+			<tradition>Unending Wheel</tradition>
+			<degree>2</degree>
+			<exertioncost>3</exertioncost>
+			<action>Bonus</action>
+			<type>Maneuver</type>
+			<short>Quickly draw a melee weapon and attack a creature.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>Instinctive Counterattack</name>
+			<tradition>Razor's Edge</tradition>
+			<degree>3</degree>
+			<exertioncost>2</exertioncost>
+			<action>Reaction</action>
+			<type>Maneuver</type>
+			<short>Use a reaction to make a melee attack.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>Iron Will</name>
+			<tradition>Razor's Edge</tradition>
+			<degree>1</degree>
+			<exertioncost>1</exertioncost>
+			<action>Reaction</action>
+			<type>Maneuver</type>
+			<short>Get advantage to resist being charmed or frightened.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>Knockdown Assault</name>
+			<tradition>Mirror's Glint</tradition>
+			<degree>1</degree>
+			<exertioncost>1</exertioncost>
+			<action>Action</action>
+			<type>Maneuver</type>
+			<short>Knock your target prone when you hit with a melee attack.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>Lancer Strike</name>
+			<tradition>Spirited Steed</tradition>
+			<degree>1</degree>
+			<exertioncost>1</exertioncost>
+			<action>Action</action>
+			<type>Maneuver</type>
+			<short>Deal extra damage and knock your target prone with a lance.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>Launched Strike</name>
+			<tradition>Spirited Steed</tradition>
+			<degree>3</degree>
+			<exertioncost>2</exertioncost>
+			<action>Action</action>
+			<type>Maneuver</type>
+			<short>Leap from your mount to score a critical hit against an enemy.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>Leading Throw</name>
+			<tradition>Mirror's Glint</tradition>
+			<degree>1</degree>
+			<exertioncost>1</exertioncost>
+			<action>Reaction</action>
+			<type>Maneuver</type>
+			<short>Use your reaction to throw an enemy who misses you.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>Lean Into It</name>
+			<tradition>Adamant Mountain</tradition>
+			<degree>1</degree>
+			<exertioncost>2</exertioncost>
+			<action>Action</action>
+			<type>Maneuver</type>
+			<short>Knock your target prone when you hit with a melee attack.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>Leaping Strike</name>
+			<tradition>Tooth and Claw</tradition>
+			<degree>2</degree>
+			<exertioncost>1</exertioncost>
+			<action>Action</action>
+			<type>Maneuver</type>
+			<short>Move up to 40 feet and either push or knock your target prone.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>Legion Stance</name>
+			<tradition>Sanguine Knot</tradition>
+			<degree>1</degree>
+			<exertioncost>1</exertioncost>
+			<action>Bonus</action>
+			<type>Stance</type>
+			<short>An ally can attack a foe you hit with a critical hit.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>Look At Me!</name>
+			<tradition>Sanguine Knot</tradition>
+			<degree>3</degree>
+			<exertioncost>2</exertioncost>
+			<action>Action</action>
+			<type>Maneuver</type>
+			<short>Turn your weapon attacks into distractions that allow allies to move through the battlefield more freely.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>Mercurial Striking Stance</name>
+			<tradition>Tooth and Claw</tradition>
+			<degree>4</degree>
+			<exertioncost>1</exertioncost>
+			<action>Bonus</action>
+			<type>Sstance</type>
+			<short>Focus on making every hit with a natural weapon, unarmed strike, or dual-wielding weapon have a satisfying impact.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>Mind Over Body</name>
+			<tradition>Razor's Edge</tradition>
+			<degree>3</degree>
+			<exertioncost>1</exertioncost>
+			<action>Bonus</action>
+			<type>Maneuver</type>
+			<short>Reduce the damage you take.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>Missile Volley</name>
+			<tradition>Biting Zephyr</tradition>
+			<degree>3</degree>
+			<exertioncost>2</exertioncost>
+			<action>Action</action>
+			<type>Maneuver</type>
+			<short>Attack a group of creatures within 10 feet of a focal point.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>Mistaken Opportunity</name>
+			<tradition>Unending Wheel</tradition>
+			<degree>4</degree>
+			<exertioncost>2</exertioncost>
+			<action>Reaction</action>
+			<type>Maneuver</type>
+			<short>Use a reaction to turn a strike that misses into an attack against a different opponent.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>Mounted Charge</name>
+			<tradition>Spirited Steed</tradition>
+			<degree>1</degree>
+			<exertioncost>2</exertioncost>
+			<action>Action</action>
+			<type>Maneuver</type>
+			<short>Move your mount’s Speed and gain advantage on your first attack.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>Mugging Hit</name>
+			<tradition>Mist and Shade</tradition>
+			<degree>2</degree>
+			<exertioncost>1</exertioncost>
+			<action>Bonus</action>
+			<type>Maneuver</type>
+			<short>Make a Sleight of Hand check against a creature you have hit.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>Mundane Missile Stance</name>
+			<tradition>Biting Zephyr</tradition>
+			<degree>4</degree>
+			<exertioncost>2</exertioncost>
+			<action>Bonus</action>
+			<type>Stance</type>
+			<short>Give nearly any weapon the thrown property.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>Off-Balancing Strikes</name>
+			<tradition>Mirror's Glint</tradition>
+			<degree>2</degree>
+			<exertioncost>1</exertioncost>
+			<action>Bonus</action>
+			<type>Maneuver</type>
+			<short>Knock your target off-balance, reducing its Speed and agility.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>Painful Pickpocket</name>
+			<tradition>Mist and Shade</tradition>
+			<degree>1</degree>
+			<exertioncost>1</exertioncost>
+			<action>Reaction</action>
+			<type>Maneuver</type>
+			<short>Use your reaction to make a Sleight of Hand check against a target which hits you.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>Parrying Counter</name>
+			<tradition>Rapid Current</tradition>
+			<degree>2</degree>
+			<exertioncost>1</exertioncost>
+			<action>Reaction</action>
+			<type>Maneuver</type>
+			<short>Increase your AC against one creature and gain a free attack if it misses you.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>Perceptive Stance</name>
+			<tradition>Razor's Edge</tradition>
+			<degree>1</degree>
+			<exertioncost>1</exertioncost>
+			<action>Bonus</action>
+			<type>Stance</type>
+			<short>Enhance your perception.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>Perfect Assault</name>
+			<tradition>Unending Wheel</tradition>
+			<degree>5</degree>
+			<exertioncost>3</exertioncost>
+			<action>Action</action>
+			<type>Maneuver</type>
+			<short>Exhaust your exertion pool to transform all of your attacks into combat maneuvers.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>Perfect Edge Stance</name>
+			<tradition>Razor's Edge</tradition>
+			<degree>4</degree>
+			<exertioncost>2</exertioncost>
+			<action>Bonus</action>
+			<type>Stance</type>
+			<short>Focus on making your strikes as devastating as possible, increasing how often you score a critical hit.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>Perplexing Flurry</name>
+			<tradition>Mist and Shade</tradition>
+			<degree>1</degree>
+			<exertioncost>1</exertioncost>
+			<action>Action</action>
+			<type>Maneuver</type>
+			<short>Cause your enemy to suffer disadvantage while you focus all your attacks on them.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>Pickpocket</name>
+			<tradition>Mist and Shade</tradition>
+			<degree>3</degree>
+			<exertioncost>1</exertioncost>
+			<action>Reaction</action>
+			<type>Maneuver</type>
+			<short>Use your reaction to make a Sleight of Hand check.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>Pilfer Object</name>
+			<tradition>Mist and Shade</tradition>
+			<degree>5</degree>
+			<exertioncost>3</exertioncost>
+			<action>Reaction</action>
+			<type>Maneuver</type>
+			<short>Move next to an enemy about to use an item and take it from their hands.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>Point Blank Shot</name>
+			<tradition>Biting Zephyr</tradition>
+			<degree>1</degree>
+			<exertioncost>1</exertioncost>
+			<action>Bonus</action>
+			<type>Maneuver</type>
+			<short>Use a bonus action to make ranged weapon attacks in melee without disadvantage.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>Practiced Roll</name>
+			<tradition>Razor's Edge</tradition>
+			<degree>2</degree>
+			<exertioncost>1</exertioncost>
+			<action>Bonus</action>
+			<type>Maneuver</type>
+			<short>Move 20 feet without provoking opportunity attacks.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>Preternatural Strikes</name>
+			<tradition>Unending Wheel</tradition>
+			<degree>2</degree>
+			<exertioncost>1</exertioncost>
+			<action>Action</action>
+			<type>Maneuver</type>
+			<short>Strike targets who normally require magic.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>Primal Intercept</name>
+			<tradition>Tooth and Claw</tradition>
+			<degree>2</degree>
+			<exertioncost>2</exertioncost>
+			<action>Reaction</action>
+			<type>Maneuver</type>
+			<short>Attack a creature which grapples you.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>Prodigious Leap</name>
+			<tradition>Spirited Steed</tradition>
+			<degree>4</degree>
+			<exertioncost>3</exertioncost>
+			<action>Reaction</action>
+			<type>Maneuver</type>
+			<short>Use a reaction and spur your mount to jump impossible distances.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>Purge Magic</name>
+			<tradition>Tempered Iron</tradition>
+			<degree>1</degree>
+			<exertioncost>1</exertioncost>
+			<action>Reaction</action>
+			<type>Maneuver</type>
+			<short>Make a melee attack against an enemy casting a spell.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>Quickdraw</name>
+			<tradition>Biting Zephyr</tradition>
+			<degree>2</degree>
+			<exertioncost>2</exertioncost>
+			<action>Reaction</action>
+			<type>Maneuver</type>
+			<short>Use your reaction to draw a weapon and make a ranged attack when initiative is rolled.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>Rake</name>
+			<tradition>Tooth and Claw</tradition>
+			<degree>3</degree>
+			<exertioncost>1</exertioncost>
+			<action>Action</action>
+			<type>Maneuver</type>
+			<short>Do extra damage when making multiple attacks.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>Raking Strikes</name>
+			<tradition>Tooth and Claw</tradition>
+			<degree>1</degree>
+			<exertioncost>2</exertioncost>
+			<action>Action</action>
+			<type>Maneuver</type>
+			<short>On a hit, hit the target again with disadvantage.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>Rallying Cry</name>
+			<tradition>Sanguine Knot</tradition>
+			<degree>5</degree>
+			<exertioncost>3</exertioncost>
+			<action>Reaction</action>
+			<type>Maneuver</type>
+			<short>Use a reaction to inspire an ally to fight onward when they take a hit.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>Rapid Drink</name>
+			<tradition>Rapid Current</tradition>
+			<degree>2</degree>
+			<exertioncost>2</exertioncost>
+			<action>Bonus</action>
+			<type>Maneuver</type>
+			<short>Quickly consume or administer a potion.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>Rapid Strike</name>
+			<tradition>Rapid Current</tradition>
+			<degree>3</degree>
+			<exertioncost>2</exertioncost>
+			<action>Action</action>
+			<type>Maneuver</type>
+			<short>Make an additional attack against a creature you have hit.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>Reactive Knockdown</name>
+			<tradition>Adamant Mountain</tradition>
+			<degree>2</degree>
+			<exertioncost>1</exertioncost>
+			<action>Reaction</action>
+			<type>Maneuver</type>
+			<short>Trip your foe as an opportunity attack.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>Rearing Menace</name>
+			<tradition>Spirited Steed</tradition>
+			<degree>2</degree>
+			<exertioncost>3</exertioncost>
+			<action>Action</action>
+			<type>Maneuver</type>
+			<short>Frighten nearby foes from atop your mount.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>Reassuring Pat</name>
+			<tradition>Spirited Steed</tradition>
+			<degree>5</degree>
+			<exertioncost>3</exertioncost>
+			<action>Reaction</action>
+			<type>Maneuver</type>
+			<short>Encourage your mount and restore some of its hit points.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>Redirect</name>
+			<tradition>Mirror's Glint</tradition>
+			<degree>3</degree>
+			<exertioncost>2</exertioncost>
+			<action>Reaction</action>
+			<type>Maneuver</type>
+			<short>Redirect an attack to strike an adjacent creature.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>Reflect Attack</name>
+			<tradition>Mirror's Glint</tradition>
+			<degree>5</degree>
+			<exertioncost>3</exertioncost>
+			<action>Reaction</action>
+			<type>Maneuver</type>
+			<short>Use a reaction to turn an attacker’s strike back upon them.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>Retributive Blow</name>
+			<tradition>Mirror's Glint</tradition>
+			<degree>4</degree>
+			<exertioncost>2</exertioncost>
+			<action>Reaction</action>
+			<type>Maneuver</type>
+			<short>Use a reaction to respond to a weapon attack with a strike of your own that disrupts a foe’s offensive.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>Ricochet</name>
+			<tradition>Biting Zephyr</tradition>
+			<degree>3</degree>
+			<exertioncost>2</exertioncost>
+			<action>Bonus</action>
+			<type>Maneuver</type>
+			<short>Ignore your target’s cover with a ranged attack.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>Ride Enemy</name>
+			<tradition>Tooth and Claw</tradition>
+			<degree>1</degree>
+			<exertioncost>2</exertioncost>
+			<action>Reaction</action>
+			<type>Maneuver</type>
+			<short>Jump onto a larger creature.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>Riding Leap</name>
+			<tradition>Spirited Steed</tradition>
+			<degree>1</degree>
+			<exertioncost>1</exertioncost>
+			<action>Bonus</action>
+			<type>Maneuver</type>
+			<short>Increase the size of your mount’s jump.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>Rolling Strike</name>
+			<tradition>Rapid Current</tradition>
+			<degree>2</degree>
+			<exertioncost>1</exertioncost>
+			<action>Action</action>
+			<type>Maneuver</type>
+			<short>Move and make a melee attack.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>Sacrifice Mount</name>
+			<tradition>Spirited Steed</tradition>
+			<degree>3</degree>
+			<exertioncost>2</exertioncost>
+			<action>Reaction</action>
+			<type>Maneuver</type>
+			<short>Make your mount the target of an attack.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>Saddled Blows</name>
+			<tradition>Spirited Steed</tradition>
+			<degree>3</degree>
+			<exertioncost>3</exertioncost>
+			<action>Action</action>
+			<type>Maneuver</type>
+			<short>On a hit, make your target confused, prone, or slowed.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>Sharpened Awareness</name>
+			<tradition>Razor's Edge</tradition>
+			<degree>4</degree>
+			<exertioncost>3</exertioncost>
+			<action>Reaction</action>
+			<type>Maneuver</type>
+			<short>Use a reaction when attacked to evade by relying on your Perception, gaining an edge on your attacker with a successful dodge.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>Shield Wall</name>
+			<tradition>Sanguine Knot</tradition>
+			<degree>1</degree>
+			<exertioncost>1</exertioncost>
+			<action>Bonus</action>
+			<type>Maneuver</type>
+			<short>Adjacent allies with shields gain +2 AC.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>Shoulder Check</name>
+			<tradition>Sanguine Knot</tradition>
+			<degree>1</degree>
+			<exertioncost>1</exertioncost>
+			<action>Reaction</action>
+			<type>Maneuver</type>
+			<short>Shove a creature 10 feet when it attacks an ally.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>Shrug It Off</name>
+			<tradition>Adamant Mountain</tradition>
+			<degree>2</degree>
+			<exertioncost>2</exertioncost>
+			<action>Reaction</action>
+			<type>Maneuver</type>
+			<short>Use your reaction to avoid being frightened, poisoned, or stunned.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>Speed Over Strength</name>
+			<tradition>Rapid Current</tradition>
+			<degree>1</degree>
+			<exertioncost>1</exertioncost>
+			<action>Reaction</action>
+			<type>Maneuver</type>
+			<short>Make a quick attack against a large foe or a foe which attacks you with a heavy weapon.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>Spell Shattering Strike</name>
+			<tradition>Tempered Iron</tradition>
+			<degree>4</degree>
+			<exertioncost>2</exertioncost>
+			<action>Reaction</action>
+			<type>Maneuver</type>
+			<short>Disrupt an enemy’s spellcasting and fray the magic to disorient them as well.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>Spinning Parry</name>
+			<tradition>Mist and Shade</tradition>
+			<degree>4</degree>
+			<exertioncost>2</exertioncost>
+			<action>Reaction</action>
+			<type>Maneuver</type>
+			<short>Use a reaction to evade an opponent’s attack and swap places with your attacker, stunning them.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>Spirited Whistle</name>
+			<tradition>Spirited Steed</tradition>
+			<degree>4</degree>
+			<exertioncost>2</exertioncost>
+			<action>Action</action>
+			<type>Maneuver</type>
+			<short>As long as you can see your mount with but a whistle it rushes to your side.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>Springing Stance</name>
+			<tradition>Tooth and Claw</tradition>
+			<degree>1</degree>
+			<exertioncost>1</exertioncost>
+			<action>Bonus</action>
+			<type>Stance</type>
+			<short>Increase your jump distances.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>Spur Mount</name>
+			<tradition>Spirited Steed</tradition>
+			<degree>2</degree>
+			<exertioncost>1</exertioncost>
+			<action>Reaction</action>
+			<type>Maneuver</type>
+			<short>Grant advantage to your mount’s ability checks and saving throws.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>Stand Tall Stance</name>
+			<tradition>Adamant Mountain</tradition>
+			<degree>4</degree>
+			<exertioncost>1</exertioncost>
+			<action>Bonus</action>
+			<type>Stance</type>
+			<short>Be bigger than you really are.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>Steal Momentum</name>
+			<tradition>Mist and Shade</tradition>
+			<degree>4</degree>
+			<exertioncost>2</exertioncost>
+			<action>Reaction</action>
+			<type>Maneuver</type>
+			<short>Make a quick strike against a foe that moves within your reach and arrest their movement.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>Steely Steed Stance</name>
+			<tradition>Spirited Steed</tradition>
+			<degree>4</degree>
+			<exertioncost>3</exertioncost>
+			<action>Bonus</action>
+			<type>Stance</type>
+			<short>Fight with and alongside your mount, altering your assault to make it deadlier and harder to hurt.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>Striding Swings</name>
+			<tradition>Tempered Iron</tradition>
+			<degree>1</degree>
+			<exertioncost>1</exertioncost>
+			<action>Action</action>
+			<type>Maneuver</type>
+			<short>Move up to 15 feet though hostile spaces.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>Strike the Cracks Stance</name>
+			<tradition>Mirror's Glint</tradition>
+			<degree>4</degree>
+			<exertioncost>2</exertioncost>
+			<action>Bonus</action>
+			<type>Stance</type>
+			<short>Focus on weak spots to deal more critical hits that inflict more damage.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>Stunning Assault</name>
+			<tradition>Tempered Iron</tradition>
+			<degree>2</degree>
+			<exertioncost>3</exertioncost>
+			<action>Action</action>
+			<type>Maneuver</type>
+			<short>Stun your target with a successful attack.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>Swift Stance</name>
+			<tradition>Rapid Current</tradition>
+			<degree>1</degree>
+			<exertioncost>1</exertioncost>
+			<action>Bonus</action>
+			<type>Stance</type>
+			<short>Increase your Speed by 5 feet.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>Take Weapon</name>
+			<tradition>Mirror's Glint</tradition>
+			<degree>2</degree>
+			<exertioncost>2</exertioncost>
+			<action>Reaction</action>
+			<type>Maneuver</type>
+			<short>Snatch your foe’s weapon away when they miss you.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>Throwing Stance</name>
+			<tradition>Unending Wheel</tradition>
+			<degree>1</degree>
+			<exertioncost>1</exertioncost>
+			<action>Bonus</action>
+			<type>Stance</type>
+			<short>Give your weapon the rebounding and thrown properties.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>Tidal Parry</name>
+			<tradition>Rapid Current</tradition>
+			<degree>5</degree>
+			<exertioncost>2</exertioncost>
+			<action>Reaction</action>
+			<type>Maneuver</type>
+			<short>Use a reaction when hit with an attack to possibly turn it into a miss.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>Trample</name>
+			<tradition>Spirited Steed</tradition>
+			<degree>2</degree>
+			<exertioncost>2</exertioncost>
+			<action>Bonus</action>
+			<type>Maneuver</type>
+			<short>Move and knock those in your path prone.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>Trickshot</name>
+			<tradition>Biting Zephyr</tradition>
+			<degree>2</degree>
+			<exertioncost>1</exertioncost>
+			<action>Action</action>
+			<type>Maneuver</type>
+			<short>Perform an impressive trick with a ranged weapon attack.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>Tsunami Dash</name>
+			<tradition>Rapid Current</tradition>
+			<degree>5</degree>
+			<exertioncost>3</exertioncost>
+			<action>Action</action>
+			<type>Maneuver</type>
+			<short>Flow past your enemies and deliver a strike against each of them.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>Twist The Blade</name>
+			<tradition>Razor's Edge</tradition>
+			<degree>2</degree>
+			<exertioncost>2</exertioncost>
+			<action>Reaction</action>
+			<type>Maneuver</type>
+			<short>Use a reaction to turn a roll of 18 or more into a critical hit.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>Unbreakable</name>
+			<tradition>Adamant Mountain</tradition>
+			<degree>3</degree>
+			<exertioncost>3</exertioncost>
+			<action>Reaction</action>
+			<type>Maneuver</type>
+			<short>Defy death.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>United We Stand</name>
+			<tradition>Sanguine Knot</tradition>
+			<degree>5</degree>
+			<exertioncost>3</exertioncost>
+			<action>Action</action>
+			<type>Maneuver</type>
+			<short>Fall upon an enemy in concert with your allies and make their attacks more effective with every blow struck.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>Unsettling Injury</name>
+			<tradition>Unending Wheel</tradition>
+			<degree>3</degree>
+			<exertioncost>3</exertioncost>
+			<action>Action</action>
+			<type>Maneuver</type>
+			<short>Make your target unable to cast spells or use combat maneuvers.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>Unstoppable</name>
+			<tradition>Adamant Mountain</tradition>
+			<degree>4</degree>
+			<exertioncost>3</exertioncost>
+			<action>Reaction</action>
+			<type>Maneuver</type>
+			<short>Prevent yourself from being paralyzed, petrified, or stunned.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>Unyielding</name>
+			<tradition>Adamant Mountain</tradition>
+			<degree>5</degree>
+			<exertioncost>3</exertioncost>
+			<action>Reaction</action>
+			<type>Maneuver</type>
+			<short>Heal yourself when reduced to 0 hit points.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>Use The Pain</name>
+			<tradition>Razor's Edge</tradition>
+			<degree>2</degree>
+			<exertioncost>1</exertioncost>
+			<action>Reaction</action>
+			<type>Maneuver</type>
+			<short>Get a free attack against a foe who scores a critical hit against you.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>Victory Pose</name>
+			<tradition>Unending Wheel</tradition>
+			<degree>1</degree>
+			<exertioncost>1</exertioncost>
+			<action>Reaction</action>
+			<type>Maneuver</type>
+			<short>Grant allies advantage on death saving throws when you score a critical hit.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>Warding Wield</name>
+			<tradition>Adamant Mountain</tradition>
+			<degree>2</degree>
+			<exertioncost>1</exertioncost>
+			<action>Bonus</action>
+			<type>Maneuver</type>
+			<short>Increase your AC by 2 for one round.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>Warning Strike</name>
+			<tradition>Mirror's Glint</tradition>
+			<degree>1</degree>
+			<exertioncost>1</exertioncost>
+			<action>Reaction</action>
+			<type>Maneuver</type>
+			<short>Stop a creature from moving away from you.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>Wary Stance</name>
+			<tradition>Mirror's Glint</tradition>
+			<degree>1</degree>
+			<exertioncost>1</exertioncost>
+			<action>Bonus</action>
+			<type>Stance</type>
+			<short>Gain an expertise die on Insight checks and increase your passive Insight score.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>Wheeling Charge</name>
+			<tradition>Spirited Steed</tradition>
+			<degree>5</degree>
+			<exertioncost>3</exertioncost>
+			<action>Action</action>
+			<type>Maneuver</type>
+			<short>Caper about an enemy and rain down attacks from atop your mount, circling back with every strike.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>Whirlpool Strike</name>
+			<tradition>Rapid Current</tradition>
+			<degree>4</degree>
+			<exertioncost>3</exertioncost>
+			<action>Action</action>
+			<type>Maneuver</type>
+			<short>Attack all creatures adjacent to you and deal extra damage.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>Whirlwind Strike</name>
+			<tradition>Rapid Current</tradition>
+			<degree>3</degree>
+			<exertioncost>2</exertioncost>
+			<action>Bonus</action>
+			<type>Maneuver</type>
+			<short>Attack all creatures adjacent to you.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>Wild Capering</name>
+			<tradition>Tooth and Claw</tradition>
+			<degree>3</degree>
+			<exertioncost>1</exertioncost>
+			<action>Bonus</action>
+			<type>Maneuver</type>
+			<short>Move and gain a climb speed.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>Wild Swing</name>
+			<tradition>Adamant Mountain</tradition>
+			<degree>4</degree>
+			<exertioncost>1</exertioncost>
+			<action>Reaction</action>
+			<type>Maneuver</type>
+			<short>Turn a miss with a heavy weapon into an attack against a different target.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>Wind Strike</name>
+			<tradition>Unending Wheel</tradition>
+			<degree>4</degree>
+			<exertioncost>3</exertioncost>
+			<action>Action</action>
+			<type>Maneuver</type>
+			<short>Make a strike so superb that the wake it cuts through the air damages an enemy beyond your reach.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>World-Shaking Strike</name>
+			<tradition>Adamant Mountain</tradition>
+			<degree>5</degree>
+			<exertioncost>3</exertioncost>
+			<action>Action</action>
+			<type>Maneuver</type>
+			<short>Create a massive shockwave by striking the ground with a heavy weapon.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>Wounded Animal Gambit</name>
+			<tradition>Tooth and Claw</tradition>
+			<degree>5</degree>
+			<exertioncost>3</exertioncost>
+			<action>Reaction</action>
+			<type>Maneuver</type>
+			<short>Pretend to die and then strike when an opponent makes themself vulnerable.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>Wounding Strike</name>
+			<tradition>Unending Wheel</tradition>
+			<degree>1</degree>
+			<exertioncost>2</exertioncost>
+			<action>Bonus</action>
+			<type>Maneuver</type>
+			<short>Cause ongoing damage to your target.</short>
+			<description />
+		</maneuver>
+		<maneuver>
+			<name>Zealous Stance</name>
+			<tradition>Tempered Iron</tradition>
+			<degree>1</degree>
+			<exertioncost>1</exertioncost>
+			<action>Bonus</action>
+			<type>Stance</type>
+			<short>Gain expertise dice on attacks in exchange for granting expertise dice to your foes.</short>
+			<description />
+		</maneuver>
+	</maneuvers>
+</root>
