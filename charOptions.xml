@@ -81,6 +81,15 @@
 			<name>Survival</name>
 			<id>survival</id>
 		</skill>
+		<skill>
+			<name>_____</name>
+			<id>custom1</id>
+		</skill>
+		<skill>
+			<name>_____</name>
+			<id>custom2</id>
+		</skill>
+		
 	</skills>
 	<heritages>
 		<heritage id="birdfolk">
